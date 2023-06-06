@@ -15278,6 +15278,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ! ||digital.att.com^
 ! ||connect.telstrawholesale.com^
 ! ||form.info-morimoto-real.jp^
+! ||hfd.bridgetowermedia.com^
 ||clickmail.stubhub.com^$image,script
 ||email.mg.everyonesocial.com^$image,script
 ||wl.spotify.com^$image,script
@@ -21202,7 +21203,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||halo.actonservice.com^
 ||harriscomputer.actonservice.com^
 ||hcacentralwesttexas.hrm.healthgrades.com^
-||hfd.bridgetowermedia.com^
 ||hotel-marketing.hrs.com^
 ||hub.hubinternational.com^
 ||ibamolecular.actonservice.com^
