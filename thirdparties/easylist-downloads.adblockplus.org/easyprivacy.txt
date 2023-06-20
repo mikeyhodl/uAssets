@@ -12323,24 +12323,24 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||firebaseinstallations.googleapis.com^$domain=terabox.fun
 ! https://gist.github.com/tinogomes/c425aa2a56d289f16a1f4fcb8a65ea65
 ! Domains linking to 127.0.0.1
-||cefgo.com^
-||domaincontrol.com^
-||fbi.com^
-||lacolhost.com^
-||lndo.site^$third-party
-||local.computer^
-||local.qinlili.bid^
-||local.sisteminha.com^
-||localho.st^
-||localhost.direct^
-||localtest.me^
-||lvh.me^
-||netfinity.hostedrmm.com^
-||nip.io^$third-party
-||ssh.town^
-||supercalifragilisticexpialidocious.co.uk^
-||xip.io^
-||yoogle.com^
+!||cefgo.com^
+!||domaincontrol.com^
+!||fbi.com^
+!||lacolhost.com^
+!||lndo.site^$third-party
+!||local.computer^
+!||local.qinlili.bid^
+!||local.sisteminha.com^
+!||localho.st^
+!!||localhost.direct^
+!||localtest.me^
+!||lvh.me^
+!||netfinity.hostedrmm.com^
+!||nip.io^$third-party
+!||ssh.town^
+!||supercalifragilisticexpialidocious.co.uk^
+!||xip.io^
+!||yoogle.com^
 ! taboola
 ||am-vid-events.taboola.com^
 ||convsgmp.taboola.com^
@@ -13516,6 +13516,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||androidfilehost.com/libs/otf/stats.otf.php?
 ||anon-stats.eff.org^
 ||apartments.com/clientvisit/al.gif?
+||apester.com/cookie/bundle.js
 ||api-js.mixpanel.com^
 ||api-router.kaspersky-labs.com/logger2/metrics/
 ||api.ffm.to/sl/e/$image
@@ -14660,6 +14661,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||substation.confection.io^
 ! Adobe
 ||lightning.ncaa.com/launch/$script
+! onesignal.com
+||onesignal.com^$domain=androidauthority.com|iphoneincanada.ca|rockpapershotgun.com|senpa.io|shineads.org
 ! Bing
 ||bing.com/fd/ls/l?IG=
 ||bing.com/fd/ls/lsp.aspx
