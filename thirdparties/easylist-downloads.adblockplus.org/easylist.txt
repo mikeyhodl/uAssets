@@ -9409,6 +9409,7 @@ _800x80_
 ###votvAds_inner
 ###vsw-ads
 ###vsw_ad
+###vuukle-quiz-and-ad
 ###vuukle_ads_square2
 ###wTopAd
 ###waldo-sticky-footer-wrapper
@@ -15874,6 +15875,7 @@ _800x80_
 ##.dfpAdspot
 ##.dfpAdvert
 ##.dfp_ATF_wrapper
+##.dfp_ad--outbrain
 ##.dfp_ad_block
 ##.dfp_ad_caption
 ##.dfp_ad_content_bottom
@@ -28404,6 +28406,7 @@ browsershots.org#@#.advert_area
 ||declaredjuvenile.com^
 ||declaredpolitics.com^
 ||declarefollowersuspected.com^
+||declinebladdersbed.com^
 ||declinedmildlyreckon.com^
 ||declinetongarage.com^
 ||declk.com^
@@ -32896,6 +32899,7 @@ browsershots.org#@#.advert_area
 ||igameunion.com^
 ||igaming-warp-service.io^
 ||igarabealing.website^
+||igbiraintsv.com^
 ||iglephoo.xyz^
 ||igloohq.com^
 ||igmcsvrgxpebh.xyz^
@@ -38755,6 +38759,7 @@ browsershots.org#@#.advert_area
 ||poushoza.net^
 ||poutauge.net^
 ||povoarge.com^
+||powdermealfilth.com^
 ||powerad.ai^
 ||poweradblocker.com^
 ||powerain.biz^
@@ -39744,6 +39749,7 @@ browsershots.org#@#.advert_area
 ||raudeecu.com^
 ||raufoomoochi.com^
 ||raujurum.net^
+||raukaury.com^
 ||raunowhy.xyz^
 ||raupsica.net^
 ||raupsoap.com^
@@ -39989,6 +39995,7 @@ browsershots.org#@#.advert_area
 ||regnumyelp.digital^
 ||regott.com^
 ||regretfactor.com^
+||regrettabletoken.com^
 ||regrowsmudless.com^
 ||regrupontihe.com^
 ||reguid.com^
@@ -40291,9 +40298,11 @@ browsershots.org#@#.advert_area
 ||rhiospsea.one^
 ||rhkaljxsxlxn.xyz^
 ||rhkyufodw8ochdr3ogsite.com^
+||rhoecusteased.life^
 ||rhombicsomeday.com^
 ||rhubarbraise.com^
 ||rhudsplm.com^
+||rhungs.com^
 ||rhvdsplm.com^
 ||rhxdsplm.com^
 ||rhythmxchange.com^
@@ -40967,6 +40976,7 @@ browsershots.org#@#.advert_area
 ||scarletcashwi5.com^
 ||scarofnght.com^
 ||scarwan.com^
+||scbvydod.xyz^
 ||scenbe.com^
 ||scenespathreconciliation.com^
 ||schavsorpines.guru^
@@ -44347,6 +44357,7 @@ browsershots.org#@#.advert_area
 ||usnindioxime.website^
 ||usounoul.com^
 ||ussive.com^
+||ussord.com^
 ||ustithoo.net^
 ||ustive.com^
 ||usuade.com^
@@ -45529,6 +45540,7 @@ browsershots.org#@#.advert_area
 ||wnjjhksaue.com^
 ||wnp.com^
 ||wnrrhcyok.xyz^
+||wnutysqavt.com^
 ||wnyuehqewfisvby.com^
 ||woaembayed.uno^
 ||woafoame.net^
@@ -45690,6 +45702,7 @@ browsershots.org#@#.advert_area
 ||wrkl.xyz^
 ||wronal.com^
 ||wronti.com^
+||wrotad.com^
 ||wrotop.com^
 ||wrotov.com^
 ||wrotus.com^
@@ -45770,6 +45783,7 @@ browsershots.org#@#.advert_area
 ||wzdzht7am5.com^
 ||wzk5ndpc3x05.com^
 ||wzlbhfldl.com^
+||wzmidfgwyxfrd.com^
 ||wzogiwfapo.com^
 ||wzxty168.com^
 ||x-adservice.com^
@@ -45837,6 +45851,7 @@ browsershots.org#@#.advert_area
 ||xijojwonz.com^
 ||xilbalar.com^
 ||xilqhukky.com^
+||xilrajmzyvar.com^
 ||xineday.com^
 ||xipaaqgnrehpdns.com^
 ||xiryrnrz.com^
@@ -46079,6 +46094,7 @@ browsershots.org#@#.advert_area
 ||yinthesprin.xyz^
 ||yirtaycyytr.xyz^
 ||yiteattends.tech^
+||yixios.com^
 ||yizawe.xyz^
 ||yjgkcbvmnqnicep.xyz^
 ||ylasthepoityelthenl.xyz^
@@ -58664,7 +58680,6 @@ presearch.com##[x-data*="kwrdAdFirst"]
 mobiforge.com##a > img[alt="Ad"]
 eztv.tf,eztv.yt##a > img[alt="Anonymous Download"]
 freshplaza.com##a.banner
-aliexpress.com,aliexpress.us##a.search-card-item[href*="&aem_p4p_detail="]
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[ajaxify*="&eid="] + a[href^="https://l.facebook.com/l.php?u="]
 newstalkflorida.com##a[alt="Ad"]
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[aria-label="Advertiser link"]
