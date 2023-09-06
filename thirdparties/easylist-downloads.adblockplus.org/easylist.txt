@@ -31665,6 +31665,7 @@ browsershots.org#@#.advert_area
 ||hreerfdfgourg.com.ua^
 ||hrhufhhay.com^
 ||hrmationeng.xyz^
+||hrogrpee.de^
 ||hrscompetepickles.com^
 ||hrscouchoutbreak.com^
 ||hrtennaarn.com^
@@ -35373,6 +35374,7 @@ browsershots.org#@#.advert_area
 ||mmdyvkndcsiw.com^
 ||mmgads.com^
 ||mmismm.com^
+||mmjfnxx.com^
 ||mmjjnufyaadr.com^
 ||mmmdn.net^
 ||mmmutajbpalv.com^
@@ -37970,6 +37972,7 @@ browsershots.org#@#.advert_area
 ||pazzfun.com^
 ||pbamjgga.com^
 ||pbcde.com^
+||pbcohtm.com^
 ||pbdjtlghawpiuoq.com^
 ||pbdo.net^
 ||pbhjohrx.xyz^
@@ -52574,6 +52577,7 @@ browsershots.org#@#.advert_area
 ||traff0521.com^$popup
 ||traffic-c.com^$popup
 ||traffic.name^$popup
+||trafficbass.com^$popup
 ||trafficborder.com^$popup
 ||trafficdok.com^$popup
 ||trafficforce.com^$popup
@@ -61211,6 +61215,7 @@ greatist.com##aside
 everydayrussianlanguage.com##aside img[src^="/wp-content/themes/edr/img/"]
 thefinancialbrand.com##aside[class][style*="cursor:"]
 geoguessr.com##aside[class^="ad_"]
+filecrypt.cc,filecrypt.co##button[onclick]:not([target="_blank"]):not([title="*.dlc Download"])
 psycom.net##center > .vh-quiz-qborder
 mangas-raw.com##center > div[style]
 greekreporter.com##center > p > [href]
