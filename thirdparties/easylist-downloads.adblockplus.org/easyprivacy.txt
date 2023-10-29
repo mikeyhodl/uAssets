@@ -165,6 +165,7 @@
 /adm_tracking.js
 /adobe-analytics-$domain=~business.adobe.com
 /adobe-analytics.js
+/adobe-analytics/*$script
 /adobe-analytics2.js
 /adobe-prd/*
 /adobe.visitor-
@@ -347,6 +348,7 @@
 /api-insights/log?
 /api/0/stats
 /api/adplogger/*
+/api/cmp_tracker|
 /api/drpStats
 /api/event-rfkj/*
 /api/ipv4check?
@@ -1631,6 +1633,7 @@
 /page/page_view
 /page/unload?
 /page_analytics.js
+/page_counter.js
 /page_perf_log?
 /pagead/conversion_async.js
 /PageCount.php?
@@ -1664,6 +1667,7 @@
 /pageviews.gif?
 /pageviews?token=
 /parsely.js
+/particles/analytics.js
 /partner-analytics/*
 /partner/transparent_pixel-$image
 /partnermetrics.js
