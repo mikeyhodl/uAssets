@@ -34713,6 +34713,7 @@ browsershots.org#@#.advert_area
 ||lirateblister.com^
 ||lirdooch.xyz^
 ||lispingwraths.space^
+||list-ads.com^
 ||listeraislatory.site^
 ||listfulhymnals.website^
 ||listguineaelementary.com^
@@ -66463,7 +66464,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@://192.168.0.1$generichide
 @@://192.168.1.1$generichide
 @@://localhost:$generichide
-@@||ad-maven.com^$generichide
 @@||ads.microsoft.com^$generichide
 @@||apple.com^$generichide
 @@||bitbucket.org^$generichide
