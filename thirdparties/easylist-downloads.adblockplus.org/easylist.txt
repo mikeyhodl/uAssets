@@ -18056,7 +18056,6 @@ _800x80_
 ##.OUTBRAIN[data-widget-id^="FMS_REELD_"]
 ##.adv_outbrain
 ##.js-outbrain-container
-##.ob-dynamic-rec-containeoutBrainWrapper
 ##.ob-p.ob-dynamic-rec-container
 ##.outBrainWrapper
 ##.outbrain-ad-slot
@@ -41771,7 +41770,6 @@ browsershots.org#@#.advert_area
 ||pixelspivot.com^
 ||pixfuture.net^
 ||pixinform.com^
-||pixiv.org^
 ||pixxur.com^
 ||piybineqejjswp.com^
 ||piz7ohhujogi.com^
@@ -59680,7 +59678,6 @@ browsershots.org#@#.advert_area
 ||widgets.business.com^
 ||widgets.lendingtree.com^
 ||widgets.oddschecker.com^
-||widgets.outbrain.com/widgetMonitor/
 ||widgets.outbrain.com^*/widget.js
 ||widgets.progrids.com^
 ||widgets.tree.com^
