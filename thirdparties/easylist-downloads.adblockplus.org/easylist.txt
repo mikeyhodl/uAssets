@@ -65551,7 +65551,8 @@ distractify.com,inquisitr.com,okmagazine.com,qthemusic.com,radaronline.com##.gwo
 thetimes.co.uk##.gyLkkj
 worldpopulationreview.com##.h-64
 tvcancelrenew.com##.h-72
-posemaniacs.com##.h-\[250px\]
+indaily.com.au##.h-\[100px\]
+indaily.com.au,posemaniacs.com##.h-\[250px\]
 emojipedia.org##.h-\[282px\]
 businessinsider.in##.h-\[300px\]
 emojipedia.org##.h-\[312px\]
@@ -68977,6 +68978,7 @@ bigthink.com##.wrapper-connatixPlayspace
 worldsoccertalk.com##[id*="primis_"]
 offidocs.com##[id^="ja-container-prev"]
 hollywoodreporter.com##[id^="jwplayer"]
+ukrinform.net##[style^="min-height: 280px;"]
 wlevradio.com##a[href^="https://omny.fm/shows/just-start-the-conversation"]
 firstforwomen.com##div[class^="article-content__www_ex_co_video_player_"]
 ! dark pattern adverts
