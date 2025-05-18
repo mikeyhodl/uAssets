@@ -115,6 +115,7 @@
 /_ga?sponsor_pixel=
 /_gz/counter.php?
 /_hcms/perf
+/_i?referral_url=
 /_i?type=event&
 /_lib/ga.js
 /_owa.gif?
@@ -2779,6 +2780,7 @@
 ://cmpworker.
 ://collect.*/pageview
 ://collector.*/event
+://data.*/v1/interact?
 ://datacollector.*/event
 ://elqtrk.
 ://fallback.*/collector
@@ -53344,6 +53346,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 ||caliente.mx/integration-scripts/tracking.min.js
 ||coletor.terra.com^
 ||compare.easyviajar.com^
+||cp.as.com/stats
 ||data-ingest.xtralife.com^
 ||data.acierto.com^
 ||deporvillage.com/tracking-library/
