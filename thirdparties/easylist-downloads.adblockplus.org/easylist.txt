@@ -16699,6 +16699,7 @@ browsershots.org#@#.advert_area
 ||achieveweakness.com^
 ||achingborder.com^
 ||achycompassionate.com^
+||acidic-local.pro^
 ||acidicresist.pro^
 ||acinusghoul.shop^
 ||ackcdn.net^
@@ -17447,6 +17448,7 @@ browsershots.org#@#.advert_area
 ||agmtrk.com^
 ||agnateswhummle.shop^
 ||agnqolfmjebpk.icu^
+||agogtowie.com^
 ||agooxouy.net^
 ||agoutyspattee.shop^
 ||agpcikgp.com^
@@ -23203,6 +23205,7 @@ browsershots.org#@#.advert_area
 ||dweanmokpobd.com^
 ||dwellerfosset.shop^
 ||dwellsew.com^
+||dweomwpipj.com^
 ||dwetwdstom1020.com^
 ||dwfupceuqm.com^
 ||dwhfqyafsct.com^
@@ -25082,6 +25085,7 @@ browsershots.org#@#.advert_area
 ||fvcwqkkqmuv.com^
 ||fvmiafwauhy.fun^
 ||fvohyywkbc.com^
+||fvziwdycvudxd.tech^
 ||fwbntw.com^
 ||fwciiqsskqyih.site^
 ||fwecargurha.com^
@@ -25271,6 +25275,7 @@ browsershots.org#@#.advert_area
 ||gcybnvhleaebkp.com^
 ||gcyxdcpedyn.xyz^
 ||gdajuytgupptx.world^
+||gdamprxr.com^
 ||gdasaasnt.com^
 ||gdecording.info^
 ||gdecordingholo.info^
@@ -27779,6 +27784,7 @@ browsershots.org#@#.advert_area
 ||iyfbodn.com^
 ||iyfnz.com^
 ||iyfnzgb.com^
+||iygwbirlsfgxoc.com^
 ||iystrbftlwif.icu^
 ||iyyur.com^
 ||izeeto.com^
@@ -31779,6 +31785,7 @@ browsershots.org#@#.advert_area
 ||ohposeyniynw.com^
 ||ohqduxhcuab.com^
 ||ohrdsplu.com^
+||ohsdteotfctwb.com^
 ||ohtasqomva.com^
 ||ohtctjiuow.com^
 ||ohtotgcwolma.com^
@@ -32887,6 +32894,7 @@ browsershots.org#@#.advert_area
 ||pewyophic.top^
 ||pexorise.com^
 ||pexuvais.net^
+||peylccervhkor.com^
 ||pezoomsekre.com^
 ||pf34zdjoeycr.com^
 ||pfiuyt.com^
@@ -34932,6 +34940,7 @@ browsershots.org#@#.advert_area
 ||rgbnqmz.com^
 ||rgddist.com^
 ||rghptoxhai.com^
+||rhaphaecelts.com^
 ||rhasonimbrown.top^
 ||rhendam.com^
 ||rheneapfg.com^
@@ -36672,6 +36681,7 @@ browsershots.org#@#.advert_area
 ||sqrobmpshvj.com^
 ||squadapologiesscalp.com^
 ||square-direction.com^
+||squarkpygidia.com^
 ||squashwithholdcame.com^
 ||squdgyclavier.top^
 ||squigglyindustry.pro^
@@ -39280,6 +39290,7 @@ browsershots.org#@#.advert_area
 ||vjlyljbjjmley.top^
 ||vjlyljbylmeel.top^
 ||vjugz.com^
+||vkciwjeys.xyz^
 ||vkeagmfz.com^
 ||vkeofwhpozu.com^
 ||vkgrdiksfmliu.com^
@@ -39448,6 +39459,7 @@ browsershots.org#@#.advert_area
 ||vyhxugizkaktg.tech^
 ||vymybkyrzvwky.top^
 ||vymybkyrzvwyj.top^
+||vyomkbmowzkvw.top^
 ||vyomkbmowzmzm.top^
 ||vywvncjascsrw.world^
 ||vz.7vid.net^
@@ -58282,6 +58294,7 @@ tvtv.us##div[style^="z-index: 1100; position: fixed;"]
 ebay.com##div[title="ADVERTISEMENT"]
 presearch.com##div[x-show*="_ad_click"]
 adblock-tester.com##embed[width="240"]
+staige.tv##fanpage-club-sponsor
 teslaoracle.com##figure.aligncenter
 groupon.com##figure[data-clickurl^="https://api.groupon.com/sponsored/"]
 imgburn.com##font[face="Arial"][size="1"]
