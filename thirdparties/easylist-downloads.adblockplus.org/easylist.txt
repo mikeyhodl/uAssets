@@ -17715,6 +17715,7 @@ browsershots.org#@#.advert_area
 ||alfa-track2.site^
 ||alfasense.com^
 ||alfatraffic.com^
+||alfeinvceo.cloud^
 ||alfelixstownrus.org^
 ||alfredvariablecavalry.com^
 ||algediduala.com^
@@ -19850,6 +19851,7 @@ browsershots.org#@#.advert_area
 ||bolsek.ru^
 ||boltepse.com^
 ||boltersoyana.shop^
+||bomdog.com^
 ||bonad.io^
 ||bonafides.club^
 ||bonaghtriter.shop^
@@ -24066,6 +24068,7 @@ browsershots.org#@#.advert_area
 ||entreatyfungusgaily.com^
 ||entrecard.s3.amazonaws.com^
 ||entreesmoothstir.com^
+||entreguei.com^
 ||entterto.com^
 ||enueduringhere.info^
 ||envious-low.com^
@@ -25367,6 +25370,7 @@ browsershots.org#@#.advert_area
 ||fuagewasho.top^
 ||fualujqbhqyn.xyz^
 ||fucategallied.com^
+||fuck-ads.vercel.app^
 ||fuck-dating.com^
 ||fuckthat.xyz^
 ||fuddlerpanther.top^
@@ -28789,7 +28793,6 @@ browsershots.org#@#.advert_area
 ||kbadkxocv.com^
 ||kbao7755.de^
 ||kbjn-sibltg.icu^
-||kbmljxm.com^
 ||kbnmnl.com^
 ||kbqihabjlufvf.club^
 ||kbrnghyurjxoxx.com^
@@ -42079,6 +42082,7 @@ browsershots.org#@#.advert_area
 ||frostykitten.com^$document
 ||fstsrv16.com^$document
 ||fstsrv9.com^$document
+||fuck-ads.vercel.app^$document
 ||fuse-cloud.com^$document
 ||fuwin.sbs^$document
 ||fzev75-rtbix.top^$document
@@ -42165,6 +42169,7 @@ browsershots.org#@#.advert_area
 ||jwalkin.com^$document
 ||kagonst.com^$document
 ||kaminari.systems^$document
+||kbmljxm.com^$document
 ||ker2clk.com^$document
 ||kiss88.top^$document
 ||koafaimoor.net^$document
