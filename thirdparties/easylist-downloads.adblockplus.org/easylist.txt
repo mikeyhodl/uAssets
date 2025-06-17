@@ -7629,6 +7629,7 @@ _800x80_
 ##.ad_160_600
 ##.ad_160x600
 ##.ad_188_inner
+##.ad_1deg5up
 ##.ad_2
 ##.ad_200
 ##.ad_240
@@ -19891,6 +19892,7 @@ browsershots.org#@#.advert_area
 ||bklhnlv.com^
 ||bkojzevpe.com^
 ||bkokuwxfetah.com^
+||bkoqiqnmxfgth.website^
 ||bkqykixrzrgwr.space^
 ||bkr5xeg0c.com^
 ||bkrxfveyilyqu.site^
@@ -36344,6 +36346,7 @@ browsershots.org#@#.advert_area
 ||racismseamanstuff.com^
 ||rackettebcasc.shop^
 ||rackheartilyslender.com^
+||racoonstelic.com^
 ||racticalwhich.com^
 ||ractors291wicklay.com^
 ||racunn.com^
@@ -57981,6 +57984,7 @@ timesofindia.indiatimes.com##.icNFc
 ice.hockey##.ice_ner
 ice.hockey##.ice_werbung
 darkreader.org##.icons8
+indianexpress.com##.ie-adsbox
 indianexpress.com##.ie-banner-wrapper
 indianexpress.com##.ie-int-campign-ad
 fifetoday.co.uk##.iehxDO
@@ -60969,6 +60973,7 @@ newsner.com##div[id^="ad-"]
 songlyrics.com##div[id^="ad-absolute-160"]
 nationalrail.co.uk##div[id^="ad-advert-"]
 belloflostsouls.net,overwatch.op.gg##div[id^="ad-container-"]
+parade.com##div[id^="ad-in_content"]
 timeout.com##div[id^="ad-promo-"]
 timeout.com##div[id^="ad-side-"]
 nowgoal8.com##div[id^="ad_"]
@@ -61896,6 +61901,7 @@ insideevs.com##.outstream_partner
 ibtimes.co.uk,ibtimes.com,musictimes.com##.page-top-mobile-video
 picrew.me##.play-Imagemaker_Footer
 sciencetimes.com##.player
+bamsmackpow.com##.player-wrapper
 bossip.com##.player-wrapper-inner
 swimswam.com##.polls-461
 whoer.net##.popup-counter-deal__wrapper
