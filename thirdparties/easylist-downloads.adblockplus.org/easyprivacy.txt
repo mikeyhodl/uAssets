@@ -12991,7 +12991,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.livesense.marketing^
 ||analytics.partcommunity.com^
 ||analytics.spearly.com^
-||analyzer51.fc2.com^
 ||api.all-internet.jp^$third-party
 ||api.popin.cc/conversion2.js
 ||app.tag-plus.com/ja/api/v1/unison_planet/heat_map
@@ -14132,8 +14131,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fathom.app.silverbeak.com^
 ||fathom.tdvm.net^
 ||fbo-statistics-collector-tc.is.flippingbook.com^
-||fc2.com/ana/analyzer.php
-||fc2.com/ana/processor.php?
 ||fc2.com/counter_img.php?
 ||fd.ivoclar.com^
 ||fdt.kraken.com^
