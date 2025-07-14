@@ -11059,6 +11059,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||paramount.tech/lookup/
 ||parkwhiz.com/events/
 ||parsely.com/keys/$script,third-party
+||partner.awscconsumerinfo.autotrader.com/accdab/beacon/
 ||partners.etoro.com^$script
 ||patreon.com/api/tracking
 ||payments-amazon.com^*/analytics.js
