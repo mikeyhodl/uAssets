@@ -925,7 +925,7 @@
 /fe_logger?
 /feature/metrics$xmlhttprequest
 /figanalytics-short-ttl.js
-/fingerprint.js
+/fingerprint.js$domain=~github.com
 /fingerprint.min.js
 /fingerprint2.js
 /fingerprint2.min.js
@@ -6437,6 +6437,7 @@ omni.soundestlink.com$image
 ||amusementmorning.com^
 ||analyzecorona.com^
 ||ancientact.com^
+||animalcoder.com^
 ||annoyedairport.com^
 ||annoyingacoustics.com^
 ||annoyingclover.com^
@@ -7543,6 +7544,7 @@ omni.soundestlink.com$image
 ||predictplate.com^
 ||prepareplanes.com^
 ||presetrabbits.com^
+||presscoder.com^
 ||prettylearning.com^
 ||previousplayground.com^
 ||priceypies.com^
@@ -10327,6 +10329,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||expedia.com/static/default/default/scripts/siteAnalytics.js
 ||expedia.com/vaclog/
 ||experience.contextly.com^
+||experiments.parsely.com^
 ||extole.io/core.js
 ||extole.io^*/core.js
 ||ezoic.net/ezqlog?
@@ -11707,6 +11710,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tourradar.com/def/partner?$third-party
 ||tout.com/tracker.js
 ||tpx.tesseradigital.com^
+||tr-experiments.parsely.com^
 ||tr-op.datatrics.com^
 ||tr.cloud-media.fr^
 ||tr.datatrics.com^
