@@ -3376,6 +3376,7 @@ omni.soundestlink.com$image
 ||dlxpix.net^
 ||dm-event.net^
 ||dmepyodjotcuks.com^
+||dmndfrcstng.com^
 ||dmpxs.com^
 ||domself.de^
 ||doublestat.info^
@@ -11054,6 +11055,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||outbrain.com^$third-party
 ||outbrain.com^*/widgetStatistics.js
 ||p.cquotient.com^
+||p.jmlp.app^
 ||p.metrilo.com^
 ||p.placed.com^
 ||p.skimresources.com^
@@ -11537,6 +11539,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.shopify.com^
 ||stats.slashed.cloud^
 ||stats.smartclip.net^
+||stats.spreadsimple.com^
 ||stats.tiktoker.win^
 ||stats.topofblogs.com^
 ||stats.uscreen.io^
@@ -11664,6 +11667,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tags.fullcontact.com^
 ||tags.master-perf-tools.com^
 ||tags.pw.adn.cloud^
+||tagservice.maximus.mobkoi.com^
 ||tagtracking.vibescm.com^
 ||target.mixi.media^
 ||tarteaucitron.io/log/
@@ -12564,6 +12568,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stroeerdp.de^*_gtm.js
 ||strongvpn.com/aff/
 ||suedtirol.live/slc.js
+||t.cpurls.net^
 ||t.etraveli.com^
 ||t.nativendo.de^
 ||t.quisma.com^
@@ -13347,6 +13352,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||browser-updater.yandex.net^
 ||c.bigmir.net^
 ||cdn-rum.ngenix.net^
+||clickstream.sberbank.ru^
 ||client-analytics.mts.ru^
 ||cnstats.cdev.eu^
 ||cnt.logoslovo.ru^
@@ -14044,6 +14050,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||df.infra.sz.shopee.
 ||dhl.com/g8Dj6P8TAg/
 ||dhresource.com/dhs/fob/js/common/track/$domain=dhgate.com
+||diabrowser.com/api/event
+||diabrowser.com/js/arcnet-script.js
 ||digital.flytedesk.com/js/head.js
 ||discover-metrics.cloud.seek.com.au^
 ||dls-account.di.atlas.samsung.com^
@@ -15891,6 +15899,9 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 ||ncbi.nlm.nih.gov/core/pinger/pinger.js
 ncbi.nlm.nih.gov##+js(set, ncbi.sg, {})
 ncbi.nlm.nih.gov##+js(set, ncbi.sg.ping, noopFunc)
+! https://github.com/AdguardTeam/AdguardFilters/issues/209795
+bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
+||sstats.bitdefender.com^$xhr,redirect=noop.txt,important
 !-----------------Individual cname tracking systems-----------------!
 ! *** easylist:easyprivacy/easyprivacy_specific_cname_dataunlocker.txt ***
 ! easyprivacy_specific_cname_dataunlocker.txt
@@ -18656,6 +18667,7 @@ ncbi.nlm.nih.gov##+js(set, ncbi.sg.ping, noopFunc)
 ! ||std.o.webmd.com^
 ! ||lp.go2.ringcentral.com^
 ! ||w.smobile.wotif.com^
+! ||sstats.bitdefender.com^
 !
 ||0tfsd2rwwu3xjstb.edge41.testandtarget.omniture.com^
 ||1ps6e7sort397gy9.edge46.testandtarget.omniture.com^
@@ -27031,7 +27043,6 @@ ncbi.nlm.nih.gov##+js(set, ncbi.sg.ping, noopFunc)
 ||sstats.bbt.com^
 ||sstats.belgiantrain.be^
 ||sstats.bever.nl^
-||sstats.bitdefender.com^
 ||sstats.bnpparibasfortis.be^
 ||sstats.bonappetit.com^
 ||sstats.bookhostels.com^
@@ -51969,6 +51980,7 @@ ncbi.nlm.nih.gov##+js(set, ncbi.sg.ping, noopFunc)
 ||tgw.gmx.ch^
 ||tgw.gmx.net^
 ||tgw.web.de^
+||time.aktion-mensch.de^
 ||timing.uhrforum.de^
 ||tm.swp.de^
 ||tr.wbstraining.de^
