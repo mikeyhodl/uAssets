@@ -6454,6 +6454,7 @@ omni.soundestlink.com$image
 ||aromamirror.com^
 ||arrivegrowth.com^
 ||arubahello.com^
+||askdriver.com^
 ||aspiringapples.com^
 ||aspiringattempt.com^
 ||aspiringtoy.com^
@@ -10154,6 +10155,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dadi.technology^$third-party
 ||dash.getsitecontrol.com^
 ||dashboard.nowdialogue.com/api/events/
+||data.armexdef.uk/api/visit/
 ||data.circulate.com^
 ||data.debugbear.com^$third-party
 ||data.digitalks.az^
@@ -11288,6 +11290,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||refer.wordpress.com^
 ||referrer.disqus.com^
 ||reflow.tv/pixels/
+||register.boostymark.com/a/reg
 ||rejoiner.com/tracker/
 ||relaymedia.com/ping?$third-party
 ||removeads.workers.dev^
@@ -11407,6 +11410,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||shareit.com/affiliate.html$third-party
 ||sharethis.com/increment_clicks?
 ||sharethis.com/pageviews?
+||shop.app/pay/hop?analytics_trace_id=
 ||shopify-gtm-suite.getelevar.com/getelevar/*/dl-web-pixel-lax-custom.js
 ||shopify-webhooks.sailthru.com^
 ||shopify.com/shopifycloud/consent-tracking-api/
@@ -11638,6 +11642,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.spbx.app^
 ||t.splicky.com^
 ||t.spot.im^
+||t2.profityi.com/api/visit/
 ||t2.t2b.click^
 ||ta.trs.cn^
 ||taboola.com^$third-party
@@ -13829,6 +13834,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bing.com/notifications/render?
 ||bing.com/rewardsapp/reportActivity?
 ||binocule21c.merriam-webster.com^
+||bio.to/~/tr/
 ||biomedcentral.com/track/
 ||biosolutions.tv/audience-proxy/
 ||bitchute.com/data/script.js
@@ -53951,6 +53957,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||getflywheel.com/addons/google-analytics/$~third-party
 @@||getpublica.com/playlist.m3u8$xmlhttprequest
 @@||github.com/gorhill/uBlock/*/src/web_accessible_resources/fingerprint2.js$~third-party
+@@||glancecdn.net/cobrowse/$domain=payroll.toasttab.com
 @@||globalatlanticannuity.com/assets/embed/gtm.js$script,~third-party
 @@||glookup.info/api/json/$domain=grabify.link
 @@||gnar.grammarly.com/events$xmlhttprequest,domain=account.grammarly.com
@@ -54059,6 +54066,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||paypalobjects.com/web/*/gAnalytics.js$script,domain=paypal.com
 @@||pcoptimizedsettings.com/wp-content/plugins/koko-analytics/$~third-party
 @@||pcoptimizedsettings.com/wp-content/uploads/breeze/google/gtag.js$~third-party
+@@||petdrugsonline.co.uk/scripts/gtm.js$~third-party
 @@||plantyn.com/optiext/optiextension.dll$~third-party
 @@||platform.bombas.com/external/gtm.js$script,~third-party
 @@||plausible.io/js/plausible.js$script,domain=sammobile.com
@@ -54136,6 +54144,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||stats.sports.bellmedia.ca^$domain=rds.ca|tsn.ca
 @@||stats.statbroadcast.com/interface/webservice/event/$~third-party
 @@||stats.wnba.com/templates/angular/tables/events/$~third-party
+@@||stats.wp.com/w.js$script,domain=wordpress.com
 @@||steamstatic.com/steam/apps/$image,domain=store.steampowered.com
 @@||store.storeimages.cdn-apple.com^*/appmeasurement.js$domain=apple.com
 @@||taboola.com/libtrc/*/loader.js$domain=dailymail.co.uk|foxsports.com
