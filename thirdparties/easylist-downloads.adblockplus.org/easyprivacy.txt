@@ -9644,6 +9644,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.yola.net^
 ||analytics.yolacdn.net^
 ||analytics.yollamedia.com^
+||analytics.yyggames.com^
 ||analytics.ziftsolutions.com^
 ||analytics1.vdo.ai^
 ||analyticsehnwe.servicebus.windows.net^
@@ -53584,6 +53585,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||jetvis.ru/stat/
 ||kommersant.ru/a.asp?p=
 ||kommersant.uk/banner_stats
+||konturnovosti.com/packs/js/opm.js
 ||lamoda.ru/z?
 ||link.subscribe.ru^
 ||livelib.ru/service/pinger
