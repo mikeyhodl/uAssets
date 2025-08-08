@@ -13711,6 +13711,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||allevents.in/actracker/
 ||alljapanesepass.com/ascripts/gcu.js
 ||alljapanesepass.com/rstat
+||allkeyshop.com/analytics/script.js
 ||als-svc.nytimes.com^
 ||altruja.de/js/micro/integration-ga.js
 ||alwayslucky.com/platform/webvitals
@@ -52833,6 +52834,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||music.163.com/weapi/pl/count
 ||netstat.yunnan.cn^
 ||nex.163.com^
+||nmc.cn/static/nmclog/nmclog.js
 ||p.data.cctv.com^
 ||pan.baidu.com/api/report/
 ||pan.baidu.com/pcloud/counter/refreshcount?
