@@ -5,8 +5,8 @@
 // Please pull this list from, and only from https://publicsuffix.org/list/public_suffix_list.dat,
 // rather than any other VCS sites. Pulling from any other URL is not guaranteed to be supported.
 
-// VERSION: 2025-08-08_07-48-13_UTC
-// COMMIT: 9375d3415dea4bfcc974248b676bf0f6e6f2daa8
+// VERSION: 2025-08-12_12-43-47_UTC
+// COMMIT: 0dc563d009443d96627fae0441ec15fab9b4435d
 
 // Instructions on pulling and using this list can be found at https://publicsuffix.org/list/.
 
@@ -14160,8 +14160,10 @@ oya.to
 co.de
 
 // Laravel Holdings, Inc. : https://laravel.com
-// Submitted by André Valentin <security@laravel.com>
+// Submitted by André Valentin & James Brooks <security@laravel.com>
 laravel.cloud
+on-forge.com
+on-vapor.com
 
 // LCube - Professional hosting e.K. : https://www.lcube-webhosting.de
 // Submitted by Lars Laehn <info@lcube.de>
@@ -14994,6 +14996,10 @@ in.net
 myrdbx.io
 site.rb-hosting.io
 
+// Railway Corporation : https://railway.com
+// Submitted by Phineas Walton <dns@railway.com>
+up.railway.app
+
 // Rancher Labs, Inc : https://rancher.com
 // Submitted by Vincent Fiduccia <domains@rancher.com>
 *.on-rancher.cloud
@@ -15555,6 +15561,11 @@ tabitorder.co.il
 // TAIFUN Software AG : http://taifun-software.de
 // Submitted by Bjoern Henke <dev-server@taifun-software.de>
 taifun-dns.de
+
+// Tailor Inc. : https://www.tailor.tech
+// Submitted by Ryuzo Yamamoto <psl-maintainers@tailor.tech>
+erp.dev
+web.erp.dev
 
 // Tailscale Inc. : https://www.tailscale.com
 // Submitted by David Anderson <infra+public-suffix-list@tailscale.com>
