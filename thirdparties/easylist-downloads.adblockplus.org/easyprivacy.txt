@@ -2850,6 +2850,7 @@
 ?[AQB]&ndh=1&t=
 ?action=event&
 ?action=impression&
+?action=koko_analytics_collect
 ?action=log_promo_impression
 ?action=saveViewStat&
 ?action=statsjs&
@@ -3240,6 +3241,7 @@ _WebVitalsReporter_
 /rover.ebay.com/roveropen/*
 /rw/beacon_
 /sendmail.backerupdate.com/t/*
+/shopify/assets/themes_support/notifications/spacer-
 /shoutout.wix.com/*$image
 /sli.*/imp?$image
 /sptracking.
@@ -4283,6 +4285,7 @@ omni.soundestlink.com$image
 ||countz.com^$third-party
 ||cpcmanager.com^$third-party
 ||cpmstar.com^$third-party
+||cpx-research.com^$third-party
 ||cqcounter.com^$third-party
 ||craftkeys.com^$third-party
 ||craktraffic.com^$third-party
@@ -9641,6 +9644,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api-analytics-prd.pelcro.com^
 ||api-iam.intercom.io/messenger/web/metrics
 ||api-location-prd.pelcro.com^$domain=newsweek.com
+||api-staging.sitelytics.tech/pixel/core/api/send-event
 ||api-v3.findify.io/v3/feedback
 ||api.autopilothq.com^
 ||api.bit.ly/*/clicks?$third-party
@@ -9875,6 +9879,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdn-channels-pixel.ex.co^
 ||cdn-ds.com/analytics/
 ||cdn-eu.usefathom.com^
+||cdn-staging.delivr.ai/pixels/
 ||cdn.app.cfigroup.com/webmon/$script
 ||cdn.clkmc.com/cmc.js
 ||cdn.cuty.io/fps.js
@@ -11549,6 +11554,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.spreadsimple.com^
 ||stats.tiktoker.win^
 ||stats.topofblogs.com^
+||stats.traffective.cloud^
 ||stats.uscreen.io^
 ||stats.varrando.com^
 ||stats.viddler.com^
@@ -12070,6 +12076,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||webzel.com/counter/
 ||weglot.com/pageviews?
 ||wetpaint.com^*/track?
+||wf.typesquare.com^
 ||whooshkaa.com/identify
 ||whooshkaa.com/listen/track
 ||whoson.com/poll.gif
@@ -13802,6 +13809,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||arttrk.com/pixel/
 ||as.coinbase.com/metrics
 ||asanalytics.booking.com^
+||assets.engoo-static.com/tracking.js
 ||assets.prod.abebookscdn.com/cdn/com/scripts/abepixel-$domain=abebooks.com
 ||assets.s-bol.com/AppMeasurement-
 ||ats.alot.com^
@@ -13873,6 +13881,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||booking.com/navigation_times
 ||booking.com/sendlayoutevents
 ||boomerang.dell.com^
+||bostonscally.com/api/collect
 ||box.com/data/ptm.gif/
 ||box.com/index.php?rm=box_gen204_batch_record
 ||brightside.me/metric-collector
@@ -14659,6 +14668,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||msn.com/collect/
 ||msn.com/OneCollector/
 ||mstm.motorsport.com^
+||mtg.macpaw.com^
 ||mx.eneba.com^
 ||myanimelist.net/static/logging.html
 ||mybbc-analytics.files.bbci.co.uk/reverb-client-js/smarttag-
@@ -14780,6 +14790,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pi.ai/proxy/api/event
 ||pie.org/g/collect?
 ||pikbest.com/?m=Stats&
+||ping.anizm.net^
 ||ping.hashnode.com^
 ||ping.hungama.com^
 ||pingback.giphy.com^
@@ -14888,6 +14899,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||redfin.com/rift?
 ||redgifs.com/v2/metrics/
 ||reelgood.com/v3.0/checkip
+||rei.com/customer-analytics-attributes/
 ||reichelt.com/setsid.php?
 ||relay.fiverr.com^
 ||reports.tunein.com^
@@ -14963,6 +14975,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||shavetape.cash/stat/
 ||shazam.com/services/metrics/
 ||shemale.com/api/metrics
+||sherlock-events-sampler.ebay.com^
 ||shobiddak.com/logging/
 ||shopee.*/__t__$xmlhttprequest
 ||shopifysvc.com/v1/metrics
@@ -15295,6 +15308,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.shopstyle.co.uk^
 ||tracking.shopstyle.com^
 ||tracking.unrealengine.com^
+||tracking.wallapop.com^
 ||trackr.vivenu.com^
 ||tradingview-widget.com/static/bundles/embed/snowplow-embed-widget-tracker.$script
 ||tradingview.com/ping
@@ -52921,6 +52935,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||tr.discuss.com.hk^
 ||tr.price.com.hk^
 ||trace.qq.com^
+||track.hk01.com^
 ||track.hujiang.com^
 ||track.sohu.com^
 ||track.tom.com^
@@ -54240,6 +54255,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||wwwcache.wral.com/presentation/v3/scripts/providers/analytics/ga.js$~third-party
 @@||xeroshoes.co.uk/affiliate/scripts/trackjs.js$~third-party
 @@||xfinity.com/stream/js/api/fingerprint.js$~third-party
+@@||xiaosaas.com/org/RecordScreen/rrweb.min.js$~third-party
 @@||yottaa.net^$script,domain=containerstore.com|hannaandersson.com
 @@||youvisit.com/SmartScript/$script,domain=uaf.edu
 @@||youvisit.com/tour/$script,subdocument,domain=uaf.edu
