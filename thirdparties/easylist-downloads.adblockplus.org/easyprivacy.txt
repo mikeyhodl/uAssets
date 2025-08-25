@@ -4171,6 +4171,7 @@ omni.soundestlink.com$image
 ||chartbeat.net^$third-party
 ||checkreferrer.io^$third-party
 ||checkstat.nl^$third-party
+||chibi.sh^$third-party
 ||christiantop1000.com^$third-party
 ||chtbl.com^$script,third-party,xmlhttprequest
 ||cintnetworks.com^$third-party
@@ -5207,6 +5208,7 @@ omni.soundestlink.com$image
 ||newrelic.com^$third-party
 ||newrrb.bid^$third-party
 ||nextstat.com^$third-party
+||nexx360-static.io^$third-party
 ||nexx360.io^$third-party
 ||ngmco.net^$third-party
 ||nicequest.com^$third-party
@@ -10537,7 +10539,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||harvest.graindata.com^
 ||hasbro.com/includes/js/metrics/
 ||haymarket.com/injector/deliver/
-||hb.collectiveaudience.co^
 ||hb.vhsrv.com^
 ||hcmanager.swifteq.com/hc_events/
 ||hdnux.com/HNP/stats/page_view?
@@ -10823,6 +10824,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||m.stripe.com^$third-party,domain=~stripe.network
 ||ma.logsss.com^
 ||magento-recs-sdk.adobe.net^
+||magic.prism.gg^
 ||magnify.net/decor/track/
 ||mail-app.com/pvtracker/
 ||mail.ru/dstat?
@@ -11154,6 +11156,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pixel.s3xified.com^
 ||pixel.safe-installation.com^
 ||pixel.sprinklr.com^
+||pixel.veritone-ce.com^
 ||pixel.videohub.tv^
 ||pixel.wp.com^
 ||pixel.yabidos.com^
@@ -11351,7 +11354,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||s.autopilotapp.com^
 ||s.axon.ai/s/pixel.js
 ||s.beop.io^
-||s.collectiveaudience.co^
 ||s.logsss.com^
 ||s.pinimg.com/ct/core.js
 ||s.srvsynd.com^
@@ -13694,6 +13696,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||aiv-delivery.net/v1/ReportEvent
 ||ajax.pngtree.com/api/statistics/
 ||akamaihd.net/paay6hyr.gif?
+||al.levels.fyi/api/event
 ||alb.reddit.com^
 ||alicdn.com/AWSC/et/
 ||aliexpress.com/ts?
@@ -15321,6 +15324,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||treatment.grammarly.com^
 ||tredir.go.com^
 ||trends.privacywall.org^
+||trip.com/bee/collect
 ||tripadvisor.*/BALinkImpressionTracking/
 ||tripadvisor.*/CookiePingback?
 ||tripadvisor.*/GARecord^
