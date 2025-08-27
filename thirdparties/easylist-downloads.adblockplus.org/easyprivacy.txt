@@ -3286,8 +3286,10 @@ omni.soundestlink.com$image
 ! *** easylist:easyprivacy/easyprivacy_trackingservers_general.txt ***
 ! easyprivacy_trackingservers_general.txt
 ||00px.net^
+||18wosx.ru^
 ||1bliq.io^
 ||1cros.net^
+||26sgmin39.de^
 ||2cnt.net^
 ||2l6ddsmnm.de^
 ||2smt6mfgo.de^
@@ -3296,6 +3298,7 @@ omni.soundestlink.com$image
 ||4251.tech^
 ||44.228.85.26^
 ||46rtpw.ru^
+||5gtb.com^
 ||6dp0i7.ru^
 ||a1webstrategy.com^
 ||a47b.com^
@@ -3341,6 +3344,7 @@ omni.soundestlink.com$image
 ||bluekai.com^
 ||blueoyster.click^
 ||bonne-terre-data-layer.com^
+||bonuscake.ru^
 ||bounceexchange.com^
 ||bouncex.net^
 ||bqstreamer.com^
@@ -9657,6 +9661,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.ipgeolocation.io/getip
 ||api.iris.tv/update
 ||api.june.so^
+||api.picox.bendingspoons.com/v1/events
 ||api.sardine.ai/assets/loader.min.js$third-party
 ||api.visitorapi.com^$third-party
 ||api.wipmania.com^
@@ -9665,6 +9670,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.adjust.com^$third-party
 ||app.carnow.com/dealers/track_visitor
 ||app.link/_r?$script,third-party
+||app.octaneai.com/get_analytics_engine/
 ||app.opmnstr.com/v2/geolocate/
 ||app.pendo.io/data/$image
 ||app.posthog.com/e/?compression=
@@ -9752,7 +9758,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||azurewebsites.net/TrackView/
 ||azurewebsites.net^*/telemetry.js
 ||b.bedop.com^
-||b.trueanthem.com^
 ||b5media.com/bbpixel.php
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||b8cdn.com/assets/v1/analytics-
@@ -10723,6 +10728,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||l.typesquare.com^
 ||lambda-url.eu-west-1.on.aws^$ping
 ||lambda-url.us-east-1.on.aws/chug/event
+||launch-analytics-plugin.launchpotato.com^
 ||laurel.macrovision.com^
 ||laurel.rovicorp.com^
 ||lciapi.ninthdecimal.com^
@@ -11933,6 +11939,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trk.storyly.io^
 ||trk.techtarget.com^
 ||trk2-wtb.swaven.com^
+||trueanthem.com^$third-party
 ||trustarc.com/cap?
 ||trustarc.com/log?
 ||trustcommander.net/iab-tcfapi/
@@ -14309,6 +14316,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gamemonetize.com/account/event.php?
 ||gamemonetize.com/account/eventvideo.php?
 ||gamivo.com/tcllc?
+||gardpro.com/api/collect
 ||gc.newsweek.com/front/js/counter.js
 ||gct.americanexpress.com^
 ||gemoo-resource.com/js/analytics.js
@@ -15271,6 +15279,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tongji-res.meizu.com^
 ||top.gg/api/auctions/i
 ||top.wn.com^
+||torbobit.net/js/analytics/
 ||totalcsgo.com/ctrack/
 ||totaljobs.com/analytics/
 ||totaljobs.com/chatbot/webhook/analytics
@@ -15460,6 +15469,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||web.snapchat.com/web-analytics-v2/web/events
 ||web.whatsapp.com/wam
 ||webapi.3cx.com^
+||webbff.eu.4game.com/api/exporter/events
 ||webd-assets.cdn4dd.com/s.js$domain=doordash.com
 ||weblog.flyasiana.com^
 ||webmd.com/static/v/c?
@@ -53713,6 +53723,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||vesti.ru/counter/
 ||vkvideo.ru/al_video.php?act=track
 ||vstat.rtr-vesti.ru^
+||webbff.ru.4game.ru/api/exporter/events
 ||xapi.ozon.by/perf-metrics-collector/
 ||xapi.ozon.ru^$ping
 ||xray.mail.ru^
@@ -53991,7 +54002,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||d41.co/tags/ff-2.min.js$domain=ads.spotify.com
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||data.tm-awx.com^$script,domain=birminghammail.co.uk|bristolpost.co.uk|dailyrecord.co.uk|hulldailymail.co.uk|liverpoolecho.co.uk|manchestereveningnews.co.uk|stokesentinel.co.uk
-@@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|hungryroot.com|usa.experian.com
+@@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|hungryroot.com|usa.experian.com
 @@||datadome.monster.com.first-party-js.datadome.co^$script,domain=monster.com
 @@||delta.com/dlhome/ruxitagentjs$~third-party
 @@||docs.google.com/*/viewdata$~third-party
@@ -54034,6 +54045,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||groupbycloud.com/gb-tracker-client-3.min.js
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
 @@||gsuite.tools/js/gtag.js$script,~third-party
+@@||gtm.idealo.*/gtm.js?$domain=idealo.at|idealo.co.uk|idealo.de|idealo.es|idealo.fr|idealo.it
 @@||guce.advertising.com/collectIdentifiers$~third-party
 @@||healthgateway.gov.bc.ca/snowplow.js$~third-party
 @@||hello.myfonts.net/count/$stylesheet,domain=cfr.org|condor.com|furniturevillage.co.uk|luggagehero.com
