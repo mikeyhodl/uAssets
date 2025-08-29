@@ -9355,6 +9355,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cunda.ai^$third-party
 ||elmasistatistik.com.tr^$third-party
 ||onlinewebstat.com^$third-party
+||pixad.com.tr^$third-party
 ||realist.gen.tr^$third-party
 ||sayac.net.tr^$third-party
 ||sayyac.com^$third-party
@@ -10715,6 +10716,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||klickly.com/track
 ||kmib.co.kr/ref/
 ||kochava.com/track/$third-party
+||kumo.network-n.com/configs/sites/
 ||kununu.com^*/tracking/
 ||kxcdn.com/actor/$third-party
 ||kxcdn.com/assets/js/script.js
@@ -13390,6 +13392,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||awaps.yandex.ru^
 ||banstat.nadavi.net^
 ||bigday.ru/counter.php?
+||bitcdp.ru/tracker/
 ||bitrix.info/bx_stat
 ||browser-updater.yandex.net^
 ||c.bigmir.net^
@@ -13906,6 +13909,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||butterfly-api.masterworks.com/v1/
 ||butterly.com/node_modules/detect.js/detect.min.js
 ||buzzfeed.com/destination-sync.html
+||bwapi.bikerumor.com^
 ||bwbx.io/s3/javelin/public/hub/js/abba/$script,domain=bloomberg.co.jp|bloomberg.com
 ||byteoversea.com/monitor_web/
 ||c.arstechnica.com^
@@ -13997,6 +14001,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect.reagroupdata.com.au^
 ||collect.stepstone.co.uk^
 ||collect.thunder-io.com^
+||collection.mola.tv^
 ||collector-direct.xhamster.com^
 ||collector-px0py5pczn.octopart.com^
 ||collector.cint.com^
@@ -14497,6 +14502,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jockey.com/event/
 ||jockey.com/scripts/omt-base.js
 ||joggo.run/api/events
+||js.monitor.azure.com/scripts/c/ms.shared.analytics.mectrl-3.gbl.min.js$domain=microsoft.com
 ||julius.ai/monitoring
 ||jumbo.zomato.com^
 ||juno.com/start/javascript.do?message=
@@ -14657,6 +14663,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mi.dickssportinggoods.com/p/js/1.js
 ||mi.grubhub.com^
 ||miao.baidu.com^
+||microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/exp-analytics/
 ||midas.chase.com^
 ||mixpanel-proxy.coingecko.com^
 ||mixpanel-proxy.ted.com^
@@ -14721,7 +14728,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nextdoor.*/ajax/ping_ndas/
 ||nextdoor.com/events/
 ||nflshop.com/api/track
-||nid.thetimes.com/prod/sp/nid_sp.js
+||nid.thesun.co.uk^
+||nid.thetimes.com^
 ||nike.com/assets/measure/data-capture/
 ||nimbusweb.me/gtlytics.js
 ||nitroscripts.com^$script,domain=pcguide.com
@@ -15030,6 +15038,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||southwest.com/di/swadc/beacon/
 ||sp.cargurus.co.uk^
 ||sp.ecosia.org^
+||sp.justwatch.com^
 ||sp.pcoptimum.ca^
 ||sp.welcometothejungle.com^
 ||spanishdict.com/page-view-metadata
@@ -15927,7 +15936,7 @@ bolighub.dk##+js(acs, document.getElementsByTagName, gtm.js)
 ||static.chartbeat.com/js/chartbeat_mab.js$script,redirect=chartbeat.js
 ||static.chartbeat.com/js/chartbeat.js$script,redirect=chartbeat.js
 ! Admiral
-247sports.com,androidpolice.com,bringmethenews.com,mensjournal.com,arstechnica.com,audizine.com,blackenterprise.com,boston.com,britannica.com,cattime.com,cbr.com,cheatsheet.com,collider.com,comingsoon.net,cwtv.com,dogtime.com,esportstales.com,forums.hfboards.com,freep.com,fresnobee.com,gamerant.com,gbatemp.net,golfdigest.com,grabify.link,hancinema.net,hemmings.com,howtogeek.com,ijr.com,informazionefiscale.it,inquirer.net,insider-gaming.com,knowyourmeme.com,magesypro.pro,makeuseof.com,money.it,motorbiscuit.com,movieweb.com,nationalreview.com,nbcnews.com,neopets.com,nofilmschool.com,nypost.com,omg.blog,order-order.com,playstationlifestyle.net,pwinsider.com,savvytime.com,screenrant.com,siliconera.com,simpleflying.com,sporcle.com,stealthoptional.com,techlicious.com,technicpack.net,thedraftnetwork.com,thefashionspot.com,thegamer.com,thenerdstash.com,titantv.com,topspeed.com,twinfinite.net,videogamer.com,wnd.com,worldpopulationreview.com,wral.com,wrestlezone.com,wrestlinginc.com,xda-developers.com##+js(acs, document.createElement, admiral)
+247sports.com,androidpolice.com,bringmethenews.com,mensjournal.com,arstechnica.com,audizine.com,blackenterprise.com,boston.com,cattime.com,cbr.com,cheatsheet.com,collider.com,comingsoon.net,cwtv.com,dogtime.com,esportstales.com,forums.hfboards.com,freep.com,fresnobee.com,gamerant.com,gbatemp.net,golfdigest.com,grabify.link,hancinema.net,hemmings.com,howtogeek.com,ijr.com,informazionefiscale.it,inquirer.net,insider-gaming.com,knowyourmeme.com,magesypro.pro,makeuseof.com,money.it,motorbiscuit.com,movieweb.com,nationalreview.com,nbcnews.com,neopets.com,nofilmschool.com,nypost.com,omg.blog,order-order.com,playstationlifestyle.net,pwinsider.com,savvytime.com,screenrant.com,siliconera.com,simpleflying.com,sporcle.com,stealthoptional.com,techlicious.com,technicpack.net,thedraftnetwork.com,thefashionspot.com,thegamer.com,thenerdstash.com,titantv.com,topspeed.com,twinfinite.net,videogamer.com,wnd.com,worldpopulationreview.com,wral.com,wrestlezone.com,wrestlinginc.com,xda-developers.com##+js(acs, document.createElement, admiral)
 iwb.jp##+js(acs, document.createElement, googletag)
 apnews.com,sidereel.com##+js(acs, document.getElementsByTagName, .pubads)
 ranker.com##+js(aost, HTMLElement.prototype.insertBefore, /[A-Z] .+chunks\/\d{4}\./)
@@ -18740,6 +18749,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ! ||lp.go2.ringcentral.com^
 ! ||w.smobile.wotif.com^
 ! ||sstats.bitdefender.com^
+! ||target.microsoft.com^
 !
 ||0tfsd2rwwu3xjstb.edge41.testandtarget.omniture.com^
 ||1ps6e7sort397gy9.edge46.testandtarget.omniture.com^
@@ -28004,7 +28014,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||target.miaprova.com^
 ||target.michaels.com^
 ||target.microchip.com^
-||target.microsoft.com^
 ||target.monaco.pwc.fr^
 ||target.mtu-solutions.com^
 ||target.myhealthtoolkit.com^
@@ -53453,12 +53462,14 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||log.zdnet.co.kr^
 ||naver.com/jackpotlog/
 ||naver.com/PostView.nhn?$image
+||ntm.pstatic.net/scripts/ntm_$domain=naver.com
 ||pds.auction.co.kr^
 ||rake.11st.co.kr^
 ||seoul.co.kr/weblog/
 ||shinsegae.com/topNPopup.do
 ||sp.naver.com^
 ||ssgdfs.com/kr/common/getPageIcfCd
+||ssl.pstatic.net/static/coreplayer/mclog/media-capable-log.js$domain=naver.com
 ||stat.i3.dmm.com^
 ||stat.tiara.daum.net^
 ||stat.tiara.kakao.com^
@@ -54233,7 +54244,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||tagcommander.com^*/tc_$script
 @@||tags.news.com.au/prod/heartbeat/$script
 @@||taplytics.com^$domain=royalbank.com
-@@||target.microsoft.com/rest/$xmlhttprequest,domain=microsoft.com
 @@||targetimg1.com/webui/$script,domain=target.com
 @@||teams.microsoft.com/dialin-cdn-root/*/aria-web-telemetry-$~third-party
 @@||telemetry.stytch.com/submit$domain=play.pixels.xyz
@@ -54307,7 +54317,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 !! collect.igodigital.com/collect.js
 @@||collect.igodigital.com/collect.js$domain=berkley-fishing.com|enoteca.co.jp|goodwillfinds.com|samash.com|viajeguanabara.com.br|vitalsource.com|wilsonparking.com.au
 !! browser.sentry-cdn.com
-@@||browser.sentry-cdn.com^$domain=acustica-audio.com|alphaxiv.org|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|ocado.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
+@@||browser.sentry-cdn.com^$domain=acustica-audio.com|alphaxiv.org|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|members.bifa.film|menshealth.com|ocado.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
 !! ||assets.adobedtm.com/extensions/*/AppMeasurement.min.js
 @@||assets.adobedtm.com/extensions/*/AppMeasurement.min.js$domain=identity.healthsafe-id.com|nbc.com|subwy.com|tatamotors.com|usanetwork.com
 !! ||assets.adobedtm.com/extensions/*/AppMeasurement* (general)
