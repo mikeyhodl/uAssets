@@ -1921,6 +1921,7 @@
 /referrer_tracking.js
 /reftracker.js
 /renderTimingPixel.
+/replay?ddsource=
 /report_ga_events/*
 /report_visit.php
 /reportData/nm.gif?
@@ -2828,7 +2829,7 @@
 ://l.*/counter.php?id=$script,~third-party
 ://l.*/script.php?i=$script,~third-party
 ://lightning.*/launch/
-://matomo.$domain=~matomo.org
+://matomo.$domain=~matomo.dhjensen.dk|~matomo.org
 ://metrics-collector.
 ://mint.*/?js
 ://piwik.$domain=~matomo.org|~piwik.pro
@@ -6231,6 +6232,7 @@ omni.soundestlink.com$image
 ||ymetrica1.com^$third-party
 ||your-analytics.org^$third-party
 ||youramigo.com^$third-party
+||yourbow.com^$third-party
 ||youvisit.com^$third-party
 ||yu987.com^$third-party
 ||ywxi.net^$third-party,domain=~trustedsite.com
@@ -11732,6 +11734,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||terabox.com/api/analytics?
 ||terabox.fun/api/analytics
 ||terabox.fun/api/getsyscfg?*web_share_ads_adsterra_config
+||terrific.live/shopify-analytics-sdk.min.js
 ||test.takedwn.ws^
 ||th.bing.com/th/*&riu=$image,third-party
 ||the-group.net/aether/
@@ -13843,6 +13846,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||arttrk.com/pixel/
 ||as.coinbase.com/metrics
 ||asanalytics.booking.com^
+||asset.d5techs.com/script/track.min.js
+||asset.d5techs.com/script/utm.min.js
 ||assets.engoo-static.com/tracking.js
 ||assets.prod.abebookscdn.com/cdn/com/scripts/abepixel-$domain=abebooks.com
 ||assets.s-bol.com/AppMeasurement-
@@ -14074,6 +14079,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cultofmac.com/djrxqhzkbsgf.js
 ||cvs.com/tnadstlinj.js
 ||cwt.citywire.info^
+||cxgpt1.goindigo.in/forward/v2/track
 ||d.analyticsmania.com^
 ||d.skk.moe^
 ||d401.dollartree.com^
@@ -14278,7 +14284,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fathom.app.silverbeak.com^
 ||fathom.tdvm.net^
 ||fbo-statistics-collector-tc.is.flippingbook.com^
-||fc2.com/counter_img.php?
 ||fd.ivoclar.com^
 ||fdt.kraken.com^
 ||feedbackws.icloud.com/reportStats
@@ -14298,6 +14303,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fiverr.com/api/v1/activities
 ||flagr.worldstarhiphop.com/api/v1/evaluation
 ||flaticon.com/_ga?
+||fleshlight.com/api/collect
 ||flipboard.com/api/v2/reporting
 ||flipboard.com/usage?
 ||flipkart.com/api/3/data/collector/
@@ -14421,6 +14427,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hn-ping*.hashnode.com^
 ||homedepot.ca/mr/thd-ca-prod.js
 ||hoo.be/api/hoobe/analytics
+||hopper.com/api/v0/tracking/event
 ||hostinger.com/api-proxy/api/sentry/
 ||hotels.com/api/bucketing/v1/evaluateExperimentsAndLog
 ||hotels.com/cl/data/omgpixel.json?
@@ -14791,6 +14798,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||optimizely.techtarget.com^
 ||oracle.com/visitorinfo/
 ||oracleimg.com/us/assets/metrics/ora_docs.js
+||otel-mobile.doordash.com^
 ||outbound.io/v2/identify
 ||outbound.io/v2/track
 ||overstock.com/analytics/
@@ -15032,6 +15040,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||siemens.com/c2_analytics.js
 ||silvergames.com/div/g.php?
 ||simplelogin.io/p/api/event
+||siriusxmstore.com/api/collect
 ||sjc.cloud.optable.co^
 ||skyscanner.*/slipstream/view
 ||slack-edge.com/bv1-10/slack_beacon.
@@ -15200,7 +15209,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.birchlane.com^
 ||t.dailymail.co.uk^
 ||t.deepnote.com^
+||t.factorform.com^
 ||t.freelancer.com^
+||t.goodchop.com^
 ||t.indeed.com^
 ||t.ionos.com^
 ||t.jossandmain.com^
@@ -15212,6 +15223,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.paypal.com^$image
 ||t.perigold.com^
 ||t.poki.io^
+||t.prageru.com^
 ||t.regionsjob.com^
 ||t.wayfair.ca^
 ||t.wayfair.co.uk^
@@ -15305,6 +15317,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tms.eharmony.ca^
 ||tms.hft.everyplate.com^
 ||tms.hft.factor75.com^
+||tms.hft.goodchop.com^
 ||tms.hft.greenchef.com^
 ||tms.hft.hellofresh.com^
 ||tnaflix.com/stats.php
@@ -15390,6 +15403,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tumblr.com/pop/js/modern/sentry-
 ||tumblr.com/services/bblog
 ||tunein.com/api/v1/log/
+||turbobit.net/js/analytics/
 ||twitter.com/1.1/attribution
 ||twitter.com/1.1/jot
 ||twitter.com/9/measurement/
@@ -52735,6 +52749,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||surace-jujitsu.fr/outils/compteur_php/
 ||t.7sur7.be^$image
 ||t.blablacar.com^
+||t.hellowork.com^
 ||tc2.hometogo.net^
 ||techno-science.net/outils/serviceLoc.php?
 ||telerama.fr/*&ptag=
@@ -53337,6 +53352,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||contx.net/collect.js
 ||count.upc.rakuten.co.jp^
 ||counter.asobeans.jp^
+||counter1.fc2.com^
 ||crank-in.net/assets/common/js/sendpv.js
 ||ctr.po-kaki-to.com^
 ||d-log.asahi.co.jp^
@@ -53612,6 +53628,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||olx.com.br^*/lurker.
 ||poder360.com.br/_tracker
 ||r7.com/comscore/
+||rtp.pt/common/js/convivaAppTracker.js
 ||sapo.*/clk?u=
 ||sapo.pt/Projects/sapoabd/
 ||sdk-analytics-web.cloud.itau.com.br^
@@ -54043,7 +54060,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||d41.co/tags/ff-2.min.js$domain=ads.spotify.com
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||data.tm-awx.com^$script,domain=birminghammail.co.uk|bristolpost.co.uk|dailyrecord.co.uk|hulldailymail.co.uk|liverpoolecho.co.uk|manchestereveningnews.co.uk|stokesentinel.co.uk
-@@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|hungryroot.com|usa.experian.com
+@@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|goindigo.in|hungryroot.com|usa.experian.com
 @@||datadome.monster.com.first-party-js.datadome.co^$script,domain=monster.com
 @@||delta.com/dlhome/ruxitagentjs$~third-party
 @@||docs.google.com/*/viewdata$~third-party
@@ -54421,6 +54438,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||app.clarity.so^$~third-party
 @@||cbsi.map.fastly.net^
 @@||content.ingbank.pl^
+@@||ct.ddc.venmo.com.fpc.datadome.co^$domain=id.venmo.com
 @@||dd.blackhawknetwork.com.first-party-js.datadome.co^$domain=redeem.rewardlink.com
 @@||dd.wizzair.com.first-party-js.datadome.co^$domain=wizzair.com
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
