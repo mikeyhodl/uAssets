@@ -2800,6 +2800,8 @@
 /zdcc.min.js
 /zhugeio.js
 /ztracker.js
+/~shared/do/api/plausible/?id=$xmlhttprequest
+/~shared/do/~/click/?$image
 ://a869.$~image
 ://analytics-beacon.
 ://analytics-cdn.
@@ -6086,6 +6088,7 @@ omni.soundestlink.com$image
 ||visioncriticalpanels.com^$third-party
 ||visionsage.com^$third-party
 ||visistat.com^$third-party
+||visithunter.io^$third-party
 ||visitor-analytics.io^$third-party
 ||visitor-analytics.net^$third-party
 ||visitor-track.com^$third-party
@@ -9671,6 +9674,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.blink.net/a/
 ||api.collarity.com/cws/*http
 ||api.country.is^$third-party
+||api.gleap.io/sessions/ping
 ||api.ipgeolocation.io/getip
 ||api.iris.tv/update
 ||api.june.so^
@@ -9910,6 +9914,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdn.polarbyte.com^
 ||cdn.ravm.tv^
 ||cdn.sourcesync.io/open-pixel/source-pixel.js
+||cdn.sphlabs.com/suid/
 ||cdn.stamped.io/cdn/images/pixel.png
 ||cdn.statically.io/gh/opcdn/analytics/main/script.js
 ||cdn.usefathom.com^
@@ -9966,6 +9971,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||clixtell.com/track.js
 ||cloudapp.net/l/
 ||clouderrorreporting.googleapis.com^
+||cloudfilt.com/analyz.js
 ||cloudflare-quic.com/cdn-cgi/trace
 ||cloudflare.com/cdn-cgi/trace$third-party,domain=~isbgpsafeyet.com|~wyndhamdestinations.com
 ||cloudfront-labs.amazonaws.com^
@@ -10184,8 +10190,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||data.nexxt.com^
 ||data.queryly.com^
 ||data.replo.app^
-||data.tm-awx.com/smile-web-v2/
-||data.tm-awx.com/smile-web.min.js
 ||data.wiris.cloud/telemetry/
 ||data.woosmap.com^
 ||data2.gosquared.com^
@@ -10357,6 +10361,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ex.co/content/monetization/legacy-pixels/
 ||exacttarget.com^$~subdocument,third-party
 ||excite.ie/?click_in=
+||execute-api.*.amazonaws.com/forms-impressions
 ||exitintel.com/log/$third-party
 ||expedia.com/static/default/default/scripts/siteAnalytics.js
 ||expedia.com/vaclog/
@@ -10499,6 +10504,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||getmetrical.com/storagesync
 ||getpos.de/ext/
 ||getrockerbox.com/pixel?
+||gg-unleash-prod.azurewebsites.net/proxy/client/metrics
 ||gi-client-tracking.goodgamestudios.com^
 ||gigya.com^*/cimp.gif?
 ||giosg.com^*/public/trace/
@@ -10702,6 +10708,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jly24aw29n5m-a.akamaihd.net^
 ||jobvite.com/analytics.js
 ||jotform.io/getReferrer/$third-party
+||js.go2sdk.com/v2/tune.js
 ||js.verisoul.ai^
 ||jscache.com/static/page_moniker/
 ||jsdelivr.net/gh/sensitiveio/sbtracker@master/
@@ -14217,7 +14224,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||et.tidal.com^
 ||etsy.com/bcn/beacon
 ||etsy.com/clientlog
-||etsy.com/include/tags.js
 ||etui.fs.ml.com^
 ||etx.indiatimes.com^
 ||euclid.kuula.co^
@@ -14284,6 +14290,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fathom.app.silverbeak.com^
 ||fathom.tdvm.net^
 ||fbo-statistics-collector-tc.is.flippingbook.com^
+||fc2.com/counter_img.php?
 ||fd.ivoclar.com^
 ||fdt.kraken.com^
 ||feedbackws.icloud.com/reportStats
@@ -14775,6 +14782,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||novelcool.com/files/js/yh_tj.js
 ||npa.thetimes.com/stats
 ||nr-data.noelleeming.co.nz^
+||nr-js.imaios.com^
 ||nr.noelleeming.co.nz^
 ||nslookup.io/pl.js
 ||ntvid.online/cdn-cgi/trace
@@ -14895,6 +14903,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||privacy-api.9gag.com^
 ||privacyfriendly.netlify.app^
 ||privacypolicies.com/track/
+||private.wccftech.com^
 ||prod-events.nykaa.com^
 ||progressive.com/Log/
 ||promos.investing.com/*/digibox.gif?
@@ -15590,19 +15599,17 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||youjizzlive.com/api/metrics
 ||youmaker.com/g/test
 ||yourupload.com/jwe?
-||youtube-nocookie.com/api/stats/atr?
-||youtube-nocookie.com/api/stats/delayplay?
+||youtube-nocookie.com/api/stats/atr?ns=
 ||youtube-nocookie.com/api/stats/qoe?
 ||youtube-nocookie.com/ptracking?
 ||youtube-nocookie.com/robots.txt?
 ||youtube-nocookie.com/youtubei/v1/log_event?
 ||youtube.com/api/stats/ads?
-||youtube.com/api/stats/atr?
-||youtube.com/api/stats/delayplay?
-||youtube.com/api/stats/qoe?
+||youtube.com/api/stats/atr?ns=
+||youtube.com/api/stats/qoe?fmt=
 ||youtube.com/get_video?
 ||youtube.com/pcs/activeview?
-||youtube.com/ptracking?
+||youtube.com/ptracking?html5=1&
 ||youtube.com/set_awesome?
 ||youtube.com/youtubei/v1/log_event?
 ||youtube.googleapis.com/youtubei/v1/log_event?
@@ -53167,6 +53174,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||rantapallo.fi/s/redirect/tracking?
 ||stat.mtv3.fi^
 ||stats.fonecta.fi^
+||teamtailor.com/pageview
 ||tori.fi/img/none.gif$image
 ||ts.fi/Statistics/Log$image
 ||ts.fi^*/spring.js
@@ -53532,6 +53540,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||weblog.coupang.com^
 ||weblog.eseoul.go.kr^
 ||weblog2.eseoul.go.kr^
+||ytn.co.kr/_comm/yct.js
 ||ytn.co.kr/_comm/ylog.php?
 ! Latvian
 ||cv.ee/static/stat.php
@@ -53629,6 +53638,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||poder360.com.br/_tracker
 ||r7.com/comscore/
 ||rtp.pt/common/js/convivaAppTracker.js
+||rtp.pt/rtp-sensor/
 ||sapo.*/clk?u=
 ||sapo.pt/Projects/sapoabd/
 ||sdk-analytics-web.cloud.itau.com.br^
@@ -53709,6 +53719,8 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||jetvis.ru/stat/
 ||kommersant.ru/a.asp?p=
 ||kommersant.uk/banner_stats
+||kontur.ru/abtests/
+||kontur.ru/stats/
 ||konturnovosti.com/packs/js/opm.js
 ||lamoda.ru/z?
 ||link.subscribe.ru^
@@ -54059,7 +54071,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||d347cldnsmtg5x.cloudfront.net/util/1x1.gif$image,domain=aplaceforeverything.co.uk
 @@||d41.co/tags/ff-2.min.js$domain=ads.spotify.com
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
-@@||data.tm-awx.com^$script,domain=birminghammail.co.uk|bristolpost.co.uk|dailyrecord.co.uk|hulldailymail.co.uk|liverpoolecho.co.uk|manchestereveningnews.co.uk|stokesentinel.co.uk
 @@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|goindigo.in|hungryroot.com|usa.experian.com
 @@||datadome.monster.com.first-party-js.datadome.co^$script,domain=monster.com
 @@||delta.com/dlhome/ruxitagentjs$~third-party
