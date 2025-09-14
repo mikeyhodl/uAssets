@@ -2358,6 +2358,7 @@
 /trace/record?
 /trace?sessionid=
 /traces.php?
+/tracifyv2.js
 /track-event.js
 /track-focus.min.js
 /track-imp?
@@ -2593,6 +2594,7 @@
 /v1/log/web-vitals$xmlhttprequest
 /v1/pixel.js
 /v1/pixel?
+/v1/rgstr|
 /v1/stats/track
 /v1/tracker.js
 /v1/viewport_events
@@ -2888,6 +2890,7 @@
 ?type=page&event=
 ?type=pageview&
 ?v=2&tid=G-$~third-party
+?wmcAction=wmcTrack&
 _beacon?
 _c.gif?c=
 _chartbeat.js
@@ -4762,6 +4765,7 @@ omni.soundestlink.com$image
 ||hittracker.com^$third-party
 ||hitwake.com^$third-party
 ||hitwebcounter.com^$third-party
+||hlstatus.com^$third-party
 ||hmstats.com^$third-party
 ||hockeystack.com^$third-party
 ||holdonstranger.com^$third-party
@@ -5528,6 +5532,7 @@ omni.soundestlink.com$image
 ||referforex.com^$third-party
 ||referralrock.com^$third-party
 ||refersion.com^$third-party
+||refix.ai^$third-party
 ||reinvigorate.net^$third-party
 ||relead.com^$third-party
 ||relevant-digital.com^$third-party
@@ -5952,6 +5957,7 @@ omni.soundestlink.com$image
 ||traceless.me^$third-party
 ||tracemyip.org^$third-party
 ||traceworks.com^$third-party
+||tracify.ai^$third-party
 ||track-re01.com^$third-party
 ||track-web.net^$third-party
 ||trackadshub.com^$third-party
@@ -6905,6 +6911,7 @@ omni.soundestlink.com$image
 ||eatablesquare.com^
 ||echoinghaven.com^
 ||economysoil.com^
+||educationcar.com^
 ||educrated.com^
 ||effervescentcoral.com^
 ||effervescentvista.com^
@@ -7224,6 +7231,7 @@ omni.soundestlink.com$image
 ||incompetentjoke.com^
 ||inconclusiveaction.com^
 ||infamousstream.com^
+||infinityhedge.com^
 ||informalbook.com^
 ||innocentlamp.com^
 ||inputicicle.com^
@@ -10084,6 +10092,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.contentexchange.me^$third-party
+||collector.ex.co^
 ||collector.getyourguide.com^
 ||collector.mazeberry.com^
 ||collector.net-logger.com^
@@ -13121,6 +13130,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tag.triboomedia.it^
 ||tourmake.it^*/stat/
 ||tourmake.it^*/stats?
+||tps.trovaprezzi.it^
 ||tr.brand-fresh.it^
 ||tr.bt.matrixspa.it^
 ||track.cedsdigital.it^
@@ -14015,6 +14025,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||carsandbids.com/a/p
 ||cbc.ca/g/stats/
 ||cc.cc/visit_log_ajax/visit_log_save_ajax.php?
+||cdn.gov.cfigroup.com/webmon/s/source/webmon/$domain=weather.gov
 ||cdn.jsdelivr.net/npm/@adshield/
 ||centerblog.net/stats.js
 ||cgtn.com/api/collect/
@@ -14141,6 +14152,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dailymail.co.uk/geo/
 ||dailymail.co.uk/rta2/
 ||dailymotion.com/logger/
+||dap.digitalgov.gov/Universal-Federated-Analytics-Min.js
 ||darkreader.org/data/top-backers.json
 ||darkreader.org/elements/backers-
 ||darkreader.org/elements/statistics.js
@@ -53577,6 +53589,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||log.kinolights.com^
 ||log.tossinvest.com^
 ||log.zdnet.co.kr^
+||nam.veta.naver.com^
 ||naver.com/jackpotlog/
 ||naver.com/PostView.nhn?$image
 ||ntm.pstatic.net/scripts/ntm_$domain=naver.com
@@ -53587,7 +53600,9 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||shinsegae.com/topNPopup.do
 ||sp.naver.com^
 ||ssgdfs.com/kr/common/getPageIcfCd
+||ssl.pstatic.net/static.news/*/js/generated/aside.statistics.js$domain=media.naver.com|news.naver.com
 ||ssl.pstatic.net/static/coreplayer/mclog/media-capable-log.js$domain=naver.com
+||ssl.pstatic.net/tveta/libs/glad/*/gfp-display-sentry-logger.js$domain=news.naver.com
 ||stat.i3.dmm.com^
 ||stat.tiara.daum.net^
 ||stat.tiara.kakao.com^
