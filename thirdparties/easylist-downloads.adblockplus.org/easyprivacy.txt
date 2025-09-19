@@ -3129,6 +3129,7 @@ _WebVitalsReporter_
 .recolution.de/tools/emails/open/$image
 .redsift.com/e/o/$image
 .revolut.com/q/$image
+.s-pt.jp/mail/info/*/img/_.gif
 .salesforce.com/servlet/servlet.ImageServer?$image
 .secureserver.net/bbimage.aspx?
 .sendcloud.net/track/$image
@@ -3292,6 +3293,7 @@ _WebVitalsReporter_
 ://links.flickr.com/s/eo/$image
 ://links.paypal.*/eos/$image
 ://mailmag.hhcross.hankyu-hanshin.jp/c/*.gif
+://openedlog.
 ://parcel-api.delivery-status.*/open/$image
 ://sg1.wizrocketmail.net/r?e=$image
 ://t.*/open^$image
@@ -6614,6 +6616,7 @@ omni.soundestlink.com$image
 ||boiledegglabs.com^
 ||boilingbeetle.com^
 ||boilingcredit.com^
+||boilingmadsoup.com^
 ||boldbars.com^
 ||bonuscomplex.com^
 ||bookprobe.com^
@@ -6736,6 +6739,7 @@ omni.soundestlink.com$image
 ||classicnotebook.com^
 ||cleanhaircut.com^
 ||cloisteredcurve.com^
+||cloudguppy.com^
 ||cloudhustles.com^
 ||cloudjumbo.com^
 ||clumsycar.com^
@@ -6765,6 +6769,7 @@ omni.soundestlink.com$image
 ||conditionchange.com^
 ||conditioncrush.com^
 ||confesschairs.com^
+||confidencetalks.com^
 ||configchain.com^
 ||confirmglobal.com^
 ||confusedcart.com^
@@ -6848,6 +6853,7 @@ omni.soundestlink.com$image
 ||dapperdiscussion.com^
 ||dashingdrop.com^
 ||datacirrus.com^
+||daybreaklights.com^
 ||daymodern.com^
 ||dazzlingbook.com^
 ||debonairdust.com^
@@ -7017,6 +7023,7 @@ omni.soundestlink.com$image
 ||fewjuice.com^
 ||fewkittens.com^
 ||fieldconfig.com^
+||fillthemap.com^
 ||filtercutter.com^
 ||finalizeforce.com^
 ||financefear.com^
@@ -7162,6 +7169,7 @@ omni.soundestlink.com$image
 ||haltingbadge.com^
 ||haltingdivision.com^
 ||hammerhearing.com^
+||hamsterspot.com^
 ||handleteeth.com^
 ||handsomehose.com^
 ||handsomeindustry.com^
@@ -7851,6 +7859,7 @@ omni.soundestlink.com$image
 ||shydinosaurs.com^
 ||shylibrary.com^
 ||sicksmash.com^
+||siderain.com^
 ||sierrakermit.com^
 ||signaturepod.com^
 ||silentcredit.com^
@@ -8018,6 +8027,7 @@ omni.soundestlink.com$image
 ||strivesquirrel.com^
 ||strokesystem.com^
 ||strongercity.com^
+||studycooking.com^
 ||stupendoussleet.com^
 ||stupendoussnow.com^
 ||stupidscene.com^
@@ -10519,6 +10529,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gateway.bridged.media/Logging/
 ||gateway.dev/log
 ||gateway.foresee.com^
+||gateway.src-play.com/Analytics/
 ||gateway.us.zip.co/analytics
 ||gcion.com/gcion.ashx?
 ||gecko.space/count.js
@@ -12120,6 +12131,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vissle.me/track/
 ||visual.ly/track.php?
 ||visualstudio.com/_da.gif?
+||visualwebsiteoptimizer.com/cdn/analysis/
 ||visualwebsiteoptimizer.com/dyn
 ||visualwebsiteoptimizer.com/ee.gif?
 ||visualwebsiteoptimizer.com/events/t?
@@ -16132,8 +16144,11 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/117006
 ||r10s.jp/com/img/home/t.gif?$image,redirect=1x1.gif,domain=24.rakuten.co.jp,important
 ! https://github.com/easylist/easylist/commit/885ef7a64a7c872b99cf9e8f81de9ca28d877be8
+! https://github.com/uBlockOrigin/uBOL-home/issues/476#issuecomment-3306448980
+!#if !env_safari
 ||googletagmanager.com/gtm.js$domain=nexon.com,important
 ||nakanohito.jp^*/bi.js$domain=nexon.com,important
+!#endif
 !-----------------Individual cname tracking systems-----------------!
 ! *** easylist:easyprivacy/easyprivacy_specific_cname_dataunlocker.txt ***
 ! easyprivacy_specific_cname_dataunlocker.txt
@@ -54751,6 +54766,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||digitrend.it/wonder-marketing/assets/wordpress/js/videojs.ga.js?$script,domain=vrsicilia.it
 @@||jsdelivr.net^*/keen-tracking.min.js$domain=nextquotidiano.it
 @@||kataweb.it/wt/wt.js?http$domain=gelocal.it|video.huffingtonpost.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it
+@@||lasicilia.it/wp-content/plugins/digistream/digiplayer/js/videojs.ga.js?$script,~third-party
 @@||livesicilia.it/wp-content/plugins/digistream/digiplayer/js/videojs.ga.js?$script,~third-party
 @@||qds.it/wp-content/plugins/digistream/digiplayer/js/videojs.ga.js?$script,~third-party
 @@||radio24.ilsole24ore.com/plugins/cordova-plugin-nielsen/www/nielsen.js$script,~third-party
