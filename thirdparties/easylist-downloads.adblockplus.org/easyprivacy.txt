@@ -6482,6 +6482,7 @@ omni.soundestlink.com$image
 ||accountsdoor.com^
 ||accurateanimal.com^
 ||accuratecoal.com^
+||acebunny.com^
 ||acidicstraw.com^
 ||acidpigs.com^
 ||acquireuser.com^
@@ -6749,6 +6750,7 @@ omni.soundestlink.com$image
 ||clarifyverse.com^
 ||classicnotebook.com^
 ||cleanhaircut.com^
+||climbingright.com^
 ||cloisteredcurve.com^
 ||cloudguppy.com^
 ||cloudhustles.com^
