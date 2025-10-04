@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 19 Sep 2025 21:30:35 GMT
-# entries:        3440
+# last updated:   Thu, 25 Sep 2025 10:18:36 GMT
+# entries:        3439
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
@@ -73,6 +73,7 @@
 127.0.0.1 abtasty.com
 127.0.0.1 ac.rnm.ca
 127.0.0.1 accountsdoor.com
+127.0.0.1 acebunny.com
 127.0.0.1 acemlnb.com
 127.0.0.1 acobt.tech
 127.0.0.1 acridtwist.com
@@ -230,6 +231,7 @@
 127.0.0.1 adhese.com
 127.0.0.1 adhigh.net
 127.0.0.1 adhoc4.net
+127.0.0.1 adhub.media
 127.0.0.1 adhunter.media
 127.0.0.1 adimage.guardian.co.uk
 127.0.0.1 adimages.been.com
@@ -286,7 +288,6 @@
 127.0.0.1 admidadsp.com
 127.0.0.1 adminder.com
 127.0.0.1 adminshop.com
-127.0.0.1 admix.in
 127.0.0.1 admixer.net
 127.0.0.1 admized.com
 127.0.0.1 admob.com
@@ -363,7 +364,6 @@
 127.0.0.1 ads.as4x.tmcs.net
 127.0.0.1 ads.as4x.tmcs.ticketmaster.com
 127.0.0.1 ads.asiafriendfinder.com
-127.0.0.1 ads.aspalliance.com
 127.0.0.1 ads.avazu.net
 127.0.0.1 ads.bb59.ru
 127.0.0.1 ads.betfair.com
@@ -855,6 +855,7 @@
 127.0.0.1 ahalogy.com
 127.0.0.1 aheadday.com
 127.0.0.1 aim4media.com
+127.0.0.1 airplanecoffee.com
 127.0.0.1 airpush.com
 127.0.0.1 aistat.net
 127.0.0.1 ak0gsh40.com
@@ -1514,6 +1515,7 @@
 127.0.0.1 easyhits4u.com
 127.0.0.1 ebayadvertising.com
 127.0.0.1 ebuzzing.com
+127.0.0.1 echoacloud.com
 127.0.0.1 ecircle-ag.com
 127.0.0.1 ecleneue.com
 127.0.0.1 eclick.vn
@@ -1693,7 +1695,6 @@
 127.0.0.1 furryfork.com
 127.0.0.1 fusionads.net
 127.0.0.1 fusionquest.com
-127.0.0.1 futuristicapparatus.com
 127.0.0.1 futuristicfifth.com
 127.0.0.1 futuristicframe.com
 127.0.0.1 fuzzybasketball.com
@@ -1784,7 +1785,6 @@
 127.0.0.1 hbb.afl.rakuten.co.jp
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 heap.com
-127.0.0.1 heimi-lwx.com
 127.0.0.1 hellobar.com
 127.0.0.1 helpcollar.com
 127.0.0.1 hentaicounter.com
@@ -1873,7 +1873,6 @@
 127.0.0.1 images-pw.secureserver.net
 127.0.0.1 img.prohardver.hu
 127.0.0.1 imgpromo.easyrencontre.com
-127.0.0.1 immensehoney.com
 127.0.0.1 imonomy.com
 127.0.0.1 imp.i312864.net
 127.0.0.1 impossibleexpansion.com
@@ -1962,6 +1961,7 @@
 127.0.0.1 kickoffo.site
 127.0.0.1 kindads.com
 127.0.0.1 kissmetrics.com
+127.0.0.1 kittycatking.com
 127.0.0.1 klclick.com
 127.0.0.1 klclick1.com
 127.0.0.1 kliks.nl
@@ -1977,7 +1977,6 @@
 127.0.0.1 ktu.sv2.biz
 127.0.0.1 kvsadman.com
 127.0.0.1 l1.britannica.com
-127.0.0.1 lakequincy.com
 127.0.0.1 lameletters.com
 127.0.0.1 landkarts.com
 127.0.0.1 larati.net
@@ -2355,7 +2354,6 @@
 127.0.0.1 omtrdc.net
 127.0.0.1 onaudience.com
 127.0.0.1 onclickads.net
-127.0.0.1 oneandonlynetwork.com
 127.0.0.1 onegg.site
 127.0.0.1 onestat.com
 127.0.0.1 onestatfree.com
@@ -2978,6 +2976,7 @@
 127.0.0.1 summerobject.com
 127.0.0.1 sumo.com
 127.0.0.1 sumome.com
+127.0.0.1 sunsetcampfires.com
 127.0.0.1 superawesome.tv
 127.0.0.1 superchichair.com
 127.0.0.1 superclix.de
@@ -3266,7 +3265,6 @@
 127.0.0.1 url9467.comms-2.zoopla.co.uk
 127.0.0.1 urlcash.net
 127.0.0.1 us.a1.yimg.com
-127.0.0.1 userreplay.com
 127.0.0.1 userreplay.net
 127.0.0.1 users.maxcluster.net
 127.0.0.1 utils.mediageneral.net
@@ -3298,6 +3296,7 @@
 127.0.0.1 vidcpm.com
 127.0.0.1 video-stats.video.google.com
 127.0.0.1 videoadex.com
+127.0.0.1 videoadstech.org
 127.0.0.1 videoegg.com
 127.0.0.1 videostats.kakao.com
 127.0.0.1 vidible.tv
