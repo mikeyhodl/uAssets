@@ -2322,7 +2322,6 @@
 /tatari-shopify/tracker-snippet-latest.min.js
 /tc_analytics.js
 /tc_analytics.min.js
-/tc_imp.gif?
 /tccl.min.js
 /tck/gif/*
 /teal-comscore-
@@ -3372,6 +3371,7 @@ omni.soundestlink.com$image
 ||awmonitor.com^
 ||b3mxnuvcer.com^
 ||bfmio.com^
+||bgalytics.com^
 ||bidgx.com^
 ||bidswitch.net^
 ||bkrtx.com^
@@ -9084,7 +9084,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fpad.jp^$third-party
 ||fspark-ap.com^$third-party
 ||fw-ad.jp^$third-party
-||gacraft.jp^$third-party
 ||geniee.jp^$third-party
 ||genieessp.jp^$third-party
 ||gmodmp.jp^$third-party
@@ -9576,6 +9575,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ampproject.org/preconnect.gif
 ||ams-pageview-public.s3.amazonaws.com^
 ||analyse.bcovery.com^
+||analytic-client.adult-chess.com^
 ||analytic-client.blitzmightyparty.com^
 ||analytic-client.chickgoddess.com^
 ||analytic-client.panowars.com^
@@ -10001,6 +10001,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdn.one.store/xdomain_cookie.html
 ||cdn.polarbyte.com^
 ||cdn.ravm.tv^
+||cdn.skypack.dev/uuid
 ||cdn.sourcesync.io/open-pixel/source-pixel.js
 ||cdn.sphlabs.com/suid/
 ||cdn.stamped.io/cdn/images/pixel.png
@@ -10197,7 +10198,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||content.kaspersky-labs.com/public/analytics-scripts/analytical_functions.js
 ||contentdriver.com/api/impression
 ||contently.com/xdomain/
-||contentpass.net/stats?$third-party
 ||control.cityofcairns.com^$third-party
 ||conversions.genieventures.co.uk^
 ||convertflow.co^*/visitors/
@@ -10563,6 +10563,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ga.chickgoddess.com/gs_api/stats/
 ||ga.webdigi.co.uk^
 ||gaijin.net/tag?
+||galileotelemetry.tencent.com^
 ||gamedistribution.com/event?
 ||gamedock.io/gamemonkey-web-tracker/
 ||gamegecko.com/gametrack?
@@ -10574,7 +10575,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gateway.dev/log
 ||gateway.foresee.com^
 ||gateway.src-play.com/Analytics/
-||gateway.us.zip.co/analytics
 ||gcion.com/gcion.ashx?
 ||gecko.space/count.js
 ||geckofoot.com/gfcounterimg.aspx?
@@ -13301,6 +13301,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ev.tpocdm.com^
 ||flux-cdn.com/client/ukiuki/flux_wikiwiki_AS_TM_AT.min.js
 ||future-shop.jp/rview.gif?
+||gacraft.jp/publish/token.html
 ||hatmiso.net^$third-party
 ||ip2c.landscape.co.jp^
 ||ipcheck.blogsys.jp^
@@ -13330,6 +13331,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mofa.go.jp^*/count.cgi?
 ||monipla.com/launch.js
 ||moshimo.com^*/impression?
+||navismithapis-cdn.com/js/tracking.js
 ||ocn-tag.sienca.jp/api/v1/event/pv
 ||omt.shinobi.jp^
 ||otoshiana.com/ufo/
@@ -14797,7 +14799,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lucida.su/api/event
 ||lyft.com/api/track
 ||lyngsat.com/system/loadclick.js
-||m.facebook.com/ajax/weblite_load_logging/
 ||m.facebook.com/ajax/weblite_resources_timing_logging/
 ||ma.redhat.com^
 ||macys.com/tag_path/
@@ -14979,6 +14980,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||overstock.com/analytics/
 ||overstock.com/dlp?
 ||ovyerus.com/js/script.js
+||p.codio.com^
 ||p.ctpost.com/article?
 ||p.hentaiforce.net^
 ||p.minds.com^
@@ -53606,6 +53608,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||hatarako.net/api/recommend/analyze_logger
 ||hatena.ne.jp/api/log?
 ||i2i.jp/bin/
+||ias.r10s.jp/grp15/lib/ichiba_frame.js
 ||img.syosetu.org/js/c_
 ||is-log.furunavi.jp^
 ||j1.ax.xrea.com^
@@ -53647,6 +53650,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||pvtag.yahoo.co.jp^
 ||pw.gigazine.net^
 ||pzd.rakuten.co.jp^
+||r.r10s.jp/com/ap/plugin/mediatrack/mediatracker_ichiba_item.js
 ||rakuten.co.jp/com/js/omniture/
 ||rakuten.co.jp/gw.js
 ||ranking.fc2.com/analyze.js
