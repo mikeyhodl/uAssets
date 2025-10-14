@@ -5,8 +5,8 @@
 // Please pull this list from, and only from https://publicsuffix.org/list/public_suffix_list.dat,
 // rather than any other VCS sites. Pulling from any other URL is not guaranteed to be supported.
 
-// VERSION: 2025-10-01_18-52-14_UTC
-// COMMIT: 0673151c3d770cbe2bdd0116ca615f24e73d370e
+// VERSION: 2025-10-13_06-24-19_UTC
+// COMMIT: 797d160679466c6e07c15453fc0b547fcd9f5993
 
 // Instructions on pulling and using this list can be found at https://publicsuffix.org/list/.
 
@@ -12449,6 +12449,8 @@ cafjs.com
 canva-apps.cn
 my.canvasite.cn
 canva-apps.com
+canva-hosted-embed.com
+canvacode.com
 rice-labs.com
 canva.run
 my.canva.site
@@ -12774,6 +12776,7 @@ icp1.io
 *.raw.icp1.io
 *.icp.net
 caffeine.site
+caffeine.xyz
 
 // dhosting.pl Sp. z o.o. : https://dhosting.pl/
 // Submitted by Michal Kokoszkiewicz <bok@dhosting.pl>
@@ -13992,10 +13995,6 @@ ir.md
 // Submitted by William Harrison <webmaster@is-a-good.dev>
 is-a-good.dev
 
-// is-a.dev : https://is-a.dev
-// Submitted by William Harrison <security@is-a.dev>
-is-a.dev
-
 // IServ GmbH : https://iserv.de
 // Submitted by Kim Brodowski <info@iserv.de>
 iservschule.de
@@ -14225,10 +14224,6 @@ ggff.net
 // Localcert : https://localcert.dev
 // Submitted by Lann Martin <security@localcert.dev>
 *.user.localcert.dev
-
-// LocalCert : https://localcert.net
-// Submitted by William Harrison <security@localcert.net>
-localcert.net
 
 // Localtonet : https://localtonet.com/
 // Submitted by Burak Isleyici <support@localtonet.com>
@@ -15874,11 +15869,13 @@ beta.wmcloud.org
 wmflabs.org
 
 // William Harrison : https://wharrison.com.au
-// Submitted by William Harrison <security@wharrison.com.au>
+// Submitted by William Harrison <security@hrsn.net>
 wdh.app
 hrsn.au
 vps.hrsn.au
 hrsn.dev
+is-a.dev
+localcert.net
 
 // Windsurf : https://windsurf.com
 // Submitted by Douglas Chen <psl@windsurf.com>
