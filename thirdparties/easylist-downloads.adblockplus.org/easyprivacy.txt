@@ -3153,6 +3153,7 @@ _WebVitalsReporter_
 .southwest.com/r/$image
 .sp1-brevo.net/mk/op/$image
 .sparkpostmail.com/q/$image
+.sparkpostmail1.com/q/$image
 .sparkpostmail2.com/q/$image
 .spmailtechnol.com/q/$image
 .spmailtechnolo.com/q/$image
@@ -3184,6 +3185,7 @@ _WebVitalsReporter_
 /beacon.krxd.net/*
 /beaconimages.netflix.net/*$image
 /c.vialoops.com/*$image
+/ck.m.honto.jp/c/*$image
 /click.*/q/*$image
 /click.em.nike.com/*$image
 /click.email.$image
@@ -3230,6 +3232,7 @@ _WebVitalsReporter_
 /link.pbtech.co.nz/mo/*$image
 /link.theatlantic.com/img/*
 /link.thrillist.com/img/*$image
+/links.gitlab.com/s/eo/*$image
 /links1.strava.com/*$image
 /lzdmailer.letter.open?
 /m-email/t.png?
@@ -4855,6 +4858,7 @@ omni.soundestlink.com$image
 ||indicia.com^$third-party
 ||individuad.net^$third-party
 ||ineedhits.com^$third-party
+||inetstats.org^$third-party
 ||inferclick.com^$third-party
 ||infinigraph.com^$third-party
 ||infinity-tracking.com^$third-party
@@ -5276,6 +5280,7 @@ omni.soundestlink.com$image
 ||nik.io^$third-party
 ||ninjacat.io^$third-party
 ||nmrodam.com^$third-party
+||nnmtools.com^third-party
 ||noibu.com^$third-party
 ||noowho.com^$third-party
 ||nordicresearch.com^$third-party
@@ -7439,6 +7444,7 @@ omni.soundestlink.com$image
 ||memorizematch.com^
 ||memorizeneck.com^
 ||mentorsticks.com^
+||mercuryace.com^
 ||meremark.com^
 ||merequartz.com^
 ||merryopal.com^
@@ -13013,6 +13019,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||netease.com/track/
 ||netease.com/web/performance?
 ||nos.netease.com/udc-web/*.log.js
+||oocommapi2.aswatson.com/kf/*/tracking/
 ||p.aty.sohu.com^
 ||p.tencentmind.com^
 ||pos.baidu.com^
@@ -15804,7 +15811,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||yelp.com/ad_syndication_user_tracking
 ||yelp.com/spice?
 ||yes88kks.infinityscans.net^
+||yimg.com/aaq/vzm/cs_*.js
 ||yimg.com/aaq/wf/wf-darla-
+||yimg.com/rx/ev/lib/comscore-
 ||yodayo.com/scripts/pixel.js
 ||you.com/api/recordEvent
 ||youjizzlive.com/api/metrics
@@ -53581,6 +53590,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||analyzer.fc2.com^
 ||analyzer2.fc2.com^
 ||anyelse.com/stat^
+||apps.nhk.jp/assets/dtm/
 ||askdoctors.jp/assets/packs/js/impression_tracker-
 ||astat.nikkei.com^
 ||astral.nicovideo.jp^
