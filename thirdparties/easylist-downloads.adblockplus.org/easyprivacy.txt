@@ -3414,6 +3414,7 @@ omni.soundestlink.com$image
 ||cityrobotflower.com^
 ||ck123.io^
 ||ckies.net^
+||cland.fyi^
 ||clarity.ms^
 ||clcktrax.com^
 ||clearbitscripts.com^
@@ -6792,6 +6793,7 @@ omni.soundestlink.com$image
 ||coinsyouneed.com^
 ||coldbalance.com^
 ||coloradoserves.com^
+||colorfulpet.com^
 ||coloringisland.com^
 ||colossalclouds.com^
 ||colossalcoat.com^
@@ -7319,6 +7321,7 @@ omni.soundestlink.com$image
 ||irelandroad.com^
 ||iridescentdusk.com^
 ||irritatingfog.com^
+||islandwebhelp.com^
 ||itemslice.com^
 ||ivykiosk.com^
 ||j93557g.com^
@@ -7540,6 +7543,7 @@ omni.soundestlink.com$image
 ||needyneedle.com^
 ||neighborlywatch.com^
 ||nervoussummer.com^
+||networklast.com^
 ||newarkdriving.com^
 ||newartreview.com^
 ||niftygraphs.com^
@@ -7921,6 +7925,7 @@ omni.soundestlink.com$image
 ||settleshoes.com^
 ||sevenhalves.com^
 ||shadeship.com^
+||shadowmade.com^
 ||shaggytank.com^
 ||shakegoldfish.com^
 ||shakysurprise.com^
@@ -8064,6 +8069,7 @@ omni.soundestlink.com$image
 ||squarecamel.com^
 ||squeakzinc.com^
 ||squealingturn.com^
+||squidlogic.com^
 ||squishybears.com^
 ||stageschine.com^
 ||stakedances.com^
@@ -8105,6 +8111,7 @@ omni.soundestlink.com$image
 ||stomachscience.com^
 ||stonechin.com^
 ||stopstomach.com^
+||stormyflower.com^
 ||straightnest.com^
 ||straindrinks.com^
 ||strangeclocks.com^
@@ -8393,6 +8400,7 @@ omni.soundestlink.com$image
 ||worriedwine.com^
 ||wrapstretch.com^
 ||wretchedfloor.com^
+||writerhubs.com^
 ||writewealth.com^
 ||wrongpotato.com^
 ||wrongwound.com^
@@ -14509,6 +14517,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||expressvpn.com/__px.gif?
 ||exr-mms.expertreviews.co.uk^
 ||extendoffice.com/analytics.js
+||extremetech.com/js/ga.js
 ||f.cdngeek.com^$domain=edugeek.net
 ||f.pie.org^
 ||f362.nola.com^
@@ -54395,6 +54404,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|goindigo.in|hungryroot.com|usa.experian.com
 @@||datadome.monster.com.first-party-js.datadome.co^$script,domain=monster.com
+@@||dd.auspost.com.au/tags.js$script,~third-party
 @@||delta.com/dlhome/ruxitagentjs$~third-party
 @@||docs.google.com/*/viewdata$~third-party
 @@||driverfix.com^*/index_src.php?tracking=$~third-party
