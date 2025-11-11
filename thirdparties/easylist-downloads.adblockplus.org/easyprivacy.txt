@@ -3185,6 +3185,7 @@ _WebVitalsReporter_
 /ap.lijit.com/*
 /api.transferwise.com/v1/notification-flow/messages/*/open.gif
 /atlas-trk.prd.msg.ss-inf.net/*$image
+/b.k3r.jp/?a=$image
 /beacon.krxd.net/*
 /beacon?data=$image
 /beaconimages.netflix.net/*$image
@@ -6921,6 +6922,7 @@ omni.soundestlink.com$image
 ||deluxecrate.com^
 ||dependenttrip.com^
 ||deployinput.com^
+||desertgates.com^
 ||designsgrid.com^
 ||desirebucket.com^
 ||desiredirt.com^
@@ -7124,6 +7126,7 @@ omni.soundestlink.com$image
 ||freezeassets.com^
 ||freezingbuilding.com^
 ||frequentflesh.com^
+||freshlyhuman.com^
 ||friedone.com^
 ||friendlycrayon.com^
 ||friendlyfold.com^
@@ -7309,6 +7312,7 @@ omni.soundestlink.com$image
 ||inputicicle.com^
 ||inquisitiveice.com^
 ||inquisitiveinvention.com^
+||inspirebees.com^
 ||insulatech.com^
 ||intelligentscissors.com^
 ||intentlens.com^
@@ -7579,6 +7583,7 @@ omni.soundestlink.com$image
 ||octaneblood.com^
 ||offerniche.com^
 ||offgridcrops.com^
+||offshoreassets.com^
 ||offshorecyclone.com^
 ||offshoregeology.com^
 ||oldandindie.com^
@@ -53826,7 +53831,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||daumcdn.net^*/awsa.js
 ||dpg.danawa.com/*/rest/*getStampEvent
 ||gmarket.co.kr/js/common/uuid.js
-||haystack.wavve.com^
 ||hits.zdnet.co.kr^
 ||jdsports.co.kr/collect.php
 ||kyson.kakao.com^
@@ -54844,6 +54848,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||script-at.iocnt.net/iam.js$domain=oe24.at
 @@||showheroes.com/publishertag.js$domain=rollingstone.de
 @@||showheroes.com/pubtag.js$domain=rollingstone.de
+@@||siteintercept.qualtrics.com/$domain=idealo.de
 @@||sophi.io/assets/demeter/$script,domain=faz.net
 @@||spiegel.de/layout/js/http/netmind-$script
 @@||taboola.com/libtrc/$script,domain=bild.de|computerbild.de|fitbook.de|jetzt.de|metal-hammer.de|musikexpress.de|noizz.de|rollingstone.de|stylebook.de|sueddeutsche.de|techbook.de|travelbook.de|welt.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de
@@ -54908,6 +54913,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||nobook.com/open-interface/official-sensors.git/$script,~third-party
 @@||pubscholar.cn/static/common/fingerprint.js$script,~third-party
 @@||pv.sohu.com/cityjson$domain=ems.com.cn
+@@||sizhiai.com/api/stat?$~third-party
 @@||statics.zcool.com.cn/track/sensors.$script,~third-party
 @@||tianyancha.com^*/sensorsdata.$script,~third-party
 @@||tracklog.58.com/referrer_ershouche_m_Now.js$domain=m.renrenche.com
