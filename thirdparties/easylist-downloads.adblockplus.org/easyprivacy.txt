@@ -6528,6 +6528,7 @@ omni.soundestlink.com$image
 ||adorableanger.com^
 ||adorableattention.com^
 ||adventurousamount.com^
+||aerialapps.com^
 ||afraidlanguage.com^
 ||agileformer.com^
 ||agonyshark.com^
@@ -6543,6 +6544,7 @@ omni.soundestlink.com$image
 ||alloutdubstep.com^
 ||alltypo.com^
 ||alluringbucket.com^
+||almondbuns.com^
 ||almostsugar.com^
 ||alohamiles.com^
 ||aloofmetal.com^
@@ -7629,6 +7631,7 @@ omni.soundestlink.com$image
 ||opulentsylvan.com^
 ||orangebirdie.com^
 ||orientedargument.com^
+||originblocks.com^
 ||orionember.com^
 ||ourblogthing.com^
 ||outdoorsoil.com^
@@ -10617,7 +10620,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fallback.attntags.com^
 ||fallback.emtag.net^
 ||faphouse.com/api/collector/
-||fast.arena.im/script.js
 ||fast.fonts.net/jsapi/core/mt.js
 ||fast.wistia.net/assets/external/googleAds.js
 ||fastcdn.co/js/sptw.
@@ -11743,6 +11745,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||snowplowjs.darwin.cx^
 ||soccer.ru/counter/
 ||socialannex.com/c-sale-track/$script
+||sockr.birdie.so/event
 ||solutions.invocacdn.com^
 ||sonic-prod.cbssports.cloud/analytics/
 ||souisa.com/analytics/
@@ -14656,6 +14659,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ft.com/ingest?
 ||fullscreen.nz/v1/tracking/$domain=threenow.co.nz
 ||fusevideo.io/api/event
+||futureparty.com/nectar_analytics
+||futureparty.com/page_view
 ||g-scale.org/scripts/EventLog.js
 ||g.ign.com^
 ||g.mashable.com^
