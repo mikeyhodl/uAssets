@@ -7631,6 +7631,7 @@ omni.soundestlink.com$image
 ||oldfashionedoffer.com^
 ||omgthink.com^
 ||onedropocean.com^
+||onlinestarten.net^
 ||onlywoofs.com^
 ||opalquill.com^
 ||operationchicken.com^
@@ -9633,6 +9634,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||activengage.com/overwatch/
 ||activity-flow.vtex.com^
 ||activity.wisepops.com^
+||acuris.com/wat/v2/data-event
 ||ad-shield.io^$third-party
 ||ad.aloodo.com^
 ||ad.mail.ru/*.gif?rnd=$third-party
@@ -11918,6 +11920,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||svibeacon.onezapp.com^
 ||swarm.video/j79z9kzty.js
 ||swarm.video/track/
+||swi.neobox.ebu.io/v3/collect?
 ||swiftypecdn.com/cc.js$third-party
 ||swiftypecdn.com/te.js$third-party
 ||sync.adap.tv^
@@ -54777,6 +54780,8 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||youvisit.com/tour/$script,subdocument,domain=uaf.edu
 @@||zillow.com/rental-manager/proxy/rental-manager-api/api/v1/users/freemium/analytics/pageViews$~third-party
 @@||zoominfo.com/c/amplitude-js$script,~third-party
+!! monitor.azure.com
+@@||browser.events.data.microsoft.com/onecollector/$script,xmlhttprequest,domain=microsoft.com
 !! https://old.reddit.com/r/uBlockOrigin/comments/1czbcvg/foundit_is_blocking_searches_until_ublock_origin/
 @@||media.foundit.*/trex/public/theme_3/dist/js/userTracking.js$script,~third-party
 !! amplitude.com/libs
