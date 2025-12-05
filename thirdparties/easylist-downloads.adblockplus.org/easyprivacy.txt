@@ -1549,6 +1549,7 @@
 /monitor/v1/log
 /monitor?rtype=
 /monitor_analytic.js
+/monitor_browser/collect/*
 /monitoring?o=$xmlhttprequest
 /monitus.js
 /monsido.js
@@ -7355,6 +7356,7 @@ omni.soundestlink.com$image
 ||inputicicle.com^
 ||inquisitiveice.com^
 ||inquisitiveinvention.com^
+||insectmacros.com^
 ||inspirebees.com^
 ||insulatech.com^
 ||intelligentscissors.com^
@@ -16304,6 +16306,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||walmartethics.com/px/PXcfrcFEfA/init.js
 ||walmartpetrx.com/1Ct9c6G3/init.js
 ||walmartrealty.com/px/PXcfrcFEfA/init.js
+||weekand.com/413gkwMT/init.js
 ||wfla.com/CvbtpUrj/init.js
 ||wgno.com/CvbtpUrj/init.js
 ||wine-searcher.com/K6S8okp3/init.js
@@ -16371,10 +16374,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ! https://github.com/AdguardTeam/AdguardFilters/issues/218663
 ||d21y75miwcfqoq.cloudfront.net/436f3341$image,redirect=nooptext
 ! GPC
-delta.com,geizhals.de,harborfreight.com,flyfrontier.com,acmemarkets.com,usaa.com,capezio.com,twitch.tv,spotify.com,tidal.com,deezer.com,pandora.com,qobuz.com,soundcloud.com,vimeo.com,x.com,twitter.com,eventbrite.com,wunderground.com,accuweather.com,formula1.com,lenscrafters.com,subway.com,ticketmaster.*,livewithkellyandmark.com,visible.com,porsche.com,uber.com,jdsports.com,engadget.com,yahoo.com,techcrunch.com,rivals.com,kkrt.com,crunchyroll.com,dnb.com,dnb.co.uk,weather.com,ubereats.com##+js(set, Navigator.prototype.globalPrivacyControl, false)
-delta.com,geizhals.de,harborfreight.com,flyfrontier.com,acmemarkets.com,usaa.com,capezio.com,twitch.tv,spotify.com,tidal.com,deezer.com,pandora.com,qobuz.com,soundcloud.com,vimeo.com,x.com,twitter.com,eventbrite.com,wunderground.com,accuweather.com,formula1.com,lenscrafters.com,subway.com,ticketmaster.*,livewithkellyandmark.com,visible.com,porsche.com,uber.com,jdsports.com,engadget.com,yahoo.com,techcrunch.com,rivals.com,kkrt.com,crunchyroll.com,dnb.com,dnb.co.uk,weather.com,ubereats.com##+js(set, navigator.globalPrivacyControl, false)
+accuweather.com,acmemarkets.com,boston.com,capezio.com,chime.com,costco.com,crunchyroll.com,deezer.com,delta.com,dnb.co.uk,dnb.com,dollargeneral.com,engadget.com,espn.com,eventbrite.com,flyfrontier.com,formula1.com,geizhals.de,gladiatorgarageworks.com,harborfreight.com,hopwtr.com,jdsports.com,kkrt.com,lenscrafters.com,livewithkellyandmark.com,madewell.com,mazdausa.com,milesplit.live,monsterenergy.com,newyorker.com,norton.com,pandora.com,payment.nba.com,porsche.com,qobuz.com,rivals.com,soundcloud.com,spotify.com,subway.com,techcrunch.com,ticketmaster.*,tidal.com,tirerack.com,twitch.tv,twitter.com,uber.com,ubereats.com,usaa.com,vimeo.com,visible.com,weather.com,wunderground.com,x.com,yahoo.com##+js(set, Navigator.prototype.globalPrivacyControl, false)
+accuweather.com,acmemarkets.com,boston.com,capezio.com,chime.com,costco.com,crunchyroll.com,deezer.com,delta.com,dnb.co.uk,dnb.com,dollargeneral.com,engadget.com,espn.com,eventbrite.com,flyfrontier.com,formula1.com,geizhals.de,gladiatorgarageworks.com,harborfreight.com,hopwtr.com,jdsports.com,kkrt.com,lenscrafters.com,livewithkellyandmark.com,madewell.com,mazdausa.com,milesplit.live,monsterenergy.com,newyorker.com,norton.com,pandora.com,payment.nba.com,porsche.com,qobuz.com,rivals.com,soundcloud.com,spotify.com,subway.com,techcrunch.com,ticketmaster.*,tidal.com,tirerack.com,twitch.tv,twitter.com,uber.com,ubereats.com,usaa.com,vimeo.com,visible.com,weather.com,wunderground.com,x.com,yahoo.com##+js(set, navigator.globalPrivacyControl, false)
 ! Clear GPC storage item
 visible.com##+js(set-local-storage-item, browser-ids, $remove$)
+madewell.com##+js(cookie-remover, dns_cookie)
 ! Showing "Enable Cookies Please enable cookies in your browser to access USAA."
 usaa.com##+js(set-cookie, GPC, 1, , reload, 1)
 ! server-side GTM
@@ -54484,6 +54488,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||chasecdn.com/web/*/eventtracker.js$domain=chase.com
 @@||chat.d-id.com/assets/mixpanel.$~third-party
 @@||check.ddos-guard.net/check.js$script
+@@||clcouncil.org/wp-content/plugins/counter-block/assets/js/counter.js?$script,~third-party
 @@||cleverpush.com/channel/$script,domain=bsdex.de|heise.de
 @@||cleverpush.com/sdk/$script,domain=heise.de
 @@||clouderrorreporting.googleapis.com^$domain=waze.com
