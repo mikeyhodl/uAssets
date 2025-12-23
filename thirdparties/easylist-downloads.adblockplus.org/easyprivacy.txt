@@ -2484,7 +2484,6 @@
 /tracking/user_sync_widget?
 /tracking/views/*
 /tracking202/static/landing.php
-/Tracking?id=
 /tracking?referrer
 /Tracking?t=
 /tracking?vs=
