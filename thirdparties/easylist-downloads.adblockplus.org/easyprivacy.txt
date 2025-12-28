@@ -3592,6 +3592,7 @@ omni.soundestlink.com$image
 ||ilius.net^
 ||impactcdn.com^
 ||impactradius-event.com^
+||imponestvional.com^
 ||imrworldwide.com^
 ||imzahrwl.xyz^
 ||ineed2s.ro^
@@ -5603,6 +5604,7 @@ omni.soundestlink.com$image
 ||redistats.com^$third-party
 ||redstatcounter.com^$third-party
 ||reedbusiness.net^$third-party
+||reelup.io^$third-party
 ||referer.org^$third-party
 ||referforex.com^$third-party
 ||referralrock.com^$third-party
@@ -12060,6 +12062,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.menepe.com^
 ||t.metrilo.com^
 ||t.mydialoginsight.com^
+||t.paypal.com/ts?
 ||t.pointandplace.com^
 ||t.powerreviews.com^$third-party
 ||t.raptorsmartadvisor.com^
@@ -13057,6 +13060,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tms.danzz.ch^
 ||top50-solar.de/solarcount/
 ||topblogs.de/tracker.php?
+||tr.metaflow.de^
 ||track2.cliplister.com^
 ||track2.dulingo.com^
 ||track2.mycliplister.com^
@@ -13613,7 +13617,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||logs.chatboost-cv.algoage.co.jp^
 ||macromill.com/imp/
 ||mail-count.matsui.co.jp^
-||metrics.streaks.jp^
 ||mofa.go.jp^*/count.cgi?
 ||monipla.com/launch.js
 ||moshimo.com^*/impression?
@@ -16559,6 +16562,8 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||google-analytics.com/analytics.js$redirect-rule,script,domain=mond.how
 ! https://github.com/AdguardTeam/AdguardFilters/issues/210109
 ||curos.ca/res/*/resources/scripts/lib/fingerprint.js$important,redirect=fingerprint2.js,script
+! https://github.com/uBlockOrigin/uAssets/issues/31330
+||metrics.streaks.jp^$redirect=noop.txt,xmlhttprequest
 ! Youtube
 !||youtube.com/api/stats/atr?ns=*&ver=2&cmt=1.*&fs=0&*&euri&lact=$badfilter
 ||youtube.com/api/stats/qoe?*page&ns=yt&fexp=v1%*&event=streamingstats&$badfilter
