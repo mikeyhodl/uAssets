@@ -7723,6 +7723,7 @@ omni.soundestlink.com$image
 ||oldfashionedoffer.com^
 ||oldportcoffee.com^
 ||omgthink.com^
+||onecrow.net^
 ||onedropocean.com^
 ||onlinestarten.net^
 ||onlywoofs.com^
@@ -7747,6 +7748,7 @@ omni.soundestlink.com$image
 ||owlreporter.com^
 ||owlsr.us^
 ||owlstwo.com^
+||owltin.com^
 ||oxygenfuse.com^
 ||pailcrime.com^
 ||pailpatch.com^
