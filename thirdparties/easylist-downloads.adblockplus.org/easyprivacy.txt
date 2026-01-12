@@ -8048,6 +8048,7 @@ omni.soundestlink.com$image
 ||scenicchicago.com^
 ||scenicdrops.com^
 ||scentedkindly.com^
+||scholarloop.com^
 ||sciencedart.com^
 ||scientificshirt.com^
 ||scintillatingscissors.com^
@@ -8072,6 +8073,7 @@ omni.soundestlink.com$image
 ||secretturtle.com^
 ||seedscissors.com^
 ||seekmyshop.com^
+||seekremote.com^
 ||seenvault.com^
 ||seespice.com^
 ||selectivesummer.com^
