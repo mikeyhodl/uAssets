@@ -7618,6 +7618,7 @@ omni.soundestlink.com$image
 ||melodiouscomposition.com^
 ||melodiousharmony.com^
 ||melodioussymphony.com^
+||melodyglobe.com^
 ||meltmilk.com^
 ||memeorigin.com^
 ||memolight.com^
@@ -8009,6 +8010,7 @@ omni.soundestlink.com$image
 ||roseincome.com^
 ||rottenray.com^
 ||rovememoirs.com^
+||royalespring.com^
 ||royalsbagels.com^
 ||royalsweeper.com^
 ||ruralrobin.com^
