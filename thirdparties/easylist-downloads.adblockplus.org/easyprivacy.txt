@@ -3316,6 +3316,7 @@ _WebVitalsReporter_
 /t.paypal.com/*$image
 /t.yesware.com/t/*$image
 /T/OFC4/*$image
+/tlinks.nordaccount.com/q/*$image
 /tp.mkt.vorwerk.com/r/*$image
 /track.email.$image
 /track.interestingfacts.com/?xol=
@@ -7589,6 +7590,7 @@ omni.soundestlink.com$image
 ||madnessbuzz.com^
 ||madoverrice.com^
 ||magicaljoin.com^
+||magicalpiano.com^
 ||magicminibox.com^
 ||majesticwaterscape.com^
 ||majesticwilderness.com^
@@ -8550,6 +8552,7 @@ omni.soundestlink.com$image
 ||victoriousrequest.com^
 ||victoryideas.com^
 ||vilenexus.com^
+||viralfoodie.net^
 ||virtualvincent.com^
 ||visitstor.com^
 ||vividcanopy.com^
