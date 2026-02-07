@@ -15842,6 +15842,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ss.photospecialist.co.uk^
 ||sst.brodo.com^
 ||sst.bwt.com^
+||sst.carwow.
 ||sst.shopware.com^
 ||st.sawlive.tv^
 ||stackoverflow.com/_/client-timings
@@ -18531,6 +18532,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||analytics.churchthemes.com^
 ||analytics.codeforscience.org^
 ||analytics.codeskulptor.org^
+||analytics.editorialedomani.it^
 ||analytics.eikko.ai^
 ||analytics.ericafischerphotography.com^
 ||analytics.gamedatacrunch.com^
@@ -52815,6 +52817,8 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||geoip.finanzen.net^
 ||glomex.com^$ping
 ||gmx.net/monitoring/
+||go.absolventa.de^
+||go.azubi.de^
 ||golem.de/staticrl/scripts/external/snow-390-min.js
 ||golem.de/staticrl/scripts/golem_cpxl_
 ||hamburger-stadtplan.com/t.gif
@@ -52839,6 +52843,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||lynx.gruender.de^
 ||mat.ukraine-nachrichten.de^
 ||metrics.n-tv.de^
+||metrik.freitag.de^
 ||moviepilot.de/assets/autotrack-
 ||msboul.gruenwelt.de^
 ||mtb-news.de/metric/
