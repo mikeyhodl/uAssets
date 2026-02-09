@@ -7560,6 +7560,7 @@ omni.soundestlink.com$image
 ||knottyswing.com^
 ||laboredlocket.com^
 ||lackadaisicalkite.com^
+||lakesecure.com^
 ||lameletters.com^
 ||lamplow.com^
 ||landkarts.com^
@@ -7989,6 +7990,7 @@ omni.soundestlink.com$image
 ||radiantcanopy.com^
 ||radiantlullaby.com^
 ||radiateprose.com^
+||radiosfax.com^
 ||raidmedics.com^
 ||railwaygiraffe.com^
 ||railwayrainstorm.com^
@@ -8543,6 +8545,7 @@ omni.soundestlink.com$image
 ||truejasmine.com^
 ||tumbleicicle.com^
 ||tuneupcoffee.com^
+||twelvedawn.com^
 ||twistloss.com^
 ||typepredict.com^
 ||typewebsite.com^
