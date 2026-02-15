@@ -7528,6 +7528,7 @@ omni.soundestlink.com$image
 ||jetskiscovers.com^
 ||jewelryforest.com^
 ||jewelrysprings.com^
+||jigsawlucky.com^
 ||joblessdrum.com^
 ||jobmist.com^
 ||joyfulharbor.com^
@@ -7821,6 +7822,7 @@ omni.soundestlink.com$image
 ||omgthink.com^
 ||onecrow.net^
 ||onedropocean.com^
+||onespecify.com^
 ||onlinestarten.net^
 ||onlywoofs.com^
 ||opalquill.com^
