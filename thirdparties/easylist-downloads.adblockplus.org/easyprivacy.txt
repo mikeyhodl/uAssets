@@ -1854,6 +1854,7 @@
 /post-views-counter-pro/js/crawler-detect.js
 /post-views-counter-pro/js/frontend.js
 /postcounter.php?
+/posthog-recorder.js
 /postlog?
 /postview.gif?
 /pp/micro.tag.min.js
@@ -3663,6 +3664,7 @@ omni.soundestlink.com$image
 ||leadhit.io^
 ||leadsy.ai^
 ||lemonpi.io^
+||lipstat.com^
 ||liveyield.com^
 ||lltrck.com^
 ||lmepbq.com^
