@@ -11371,6 +11371,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||livelyvideo.tv/lb/logger
 ||liverail.com/?metric=
 ||liverail.com/track/?
+||livesearch-metrics.magento-ds.com^
 ||livestats.kaltura.com^
 ||livestory.io/*/collect
 ||llama.fi/script.js
@@ -13647,6 +13648,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ! Estonian
 ! Finnish
 ||almamedia.fi^*/scroll-monitor.min.js
+||ddl.alma.iltalehti.fi^
 ||dnt-userreport.com^
 ||er.sanoma-sndp.fi/stats/
 ||er.sanoma-sndp.fi/v2/stats/
