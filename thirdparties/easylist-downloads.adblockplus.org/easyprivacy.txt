@@ -8504,6 +8504,7 @@ omni.soundestlink.com$image
 ||therapeuticcars.com^
 ||thesolartime.com^
 ||thesoulbrand.com^
+||thewavebeats.com^
 ||thingsafterthought.com^
 ||thingstaste.com^
 ||thinkitten.com^
