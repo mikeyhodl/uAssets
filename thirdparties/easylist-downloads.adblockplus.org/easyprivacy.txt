@@ -8229,6 +8229,7 @@ omni.soundestlink.com$image
 ||sicksmash.com^
 ||siderain.com^
 ||sierrakermit.com^
+||signalszone.com^
 ||signaturepod.com^
 ||silentcredit.com^
 ||silentjackal.com^
