@@ -6796,6 +6796,7 @@ omni.soundestlink.com$image
 ||boilingmadsoup.com^
 ||boldbars.com^
 ||bonuscomplex.com^
+||bookbeef.com^
 ||bookprobe.com^
 ||boomboomcloud.com^
 ||boostbehavior.com^
