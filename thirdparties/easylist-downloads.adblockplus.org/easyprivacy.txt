@@ -119,7 +119,6 @@
 /__utm.js
 /__wsm.gif
 /_assets/oply/public/*
-/_astro/useProtonTelemetry.$script
 /_blazor/*$ping
 /_events/api/setEvent$xmlhttprequest
 /_ga?send&
@@ -6819,6 +6818,7 @@ omni.soundestlink.com$image
 ||breakfastboat.com^
 ||breezybright.com^
 ||breezygrove.com^
+||brewthing.com^
 ||brianwould.com^
 ||briefstem.com^
 ||brighttoe.com^
