@@ -7033,6 +7033,7 @@ omni.soundestlink.com$image
 ||cryptvalue.com^
 ||crystalboulevard.com^
 ||cubchannel.com^
+||cubeglobal.net^
 ||cubepins.com^
 ||cuddlycake.com^
 ||cuddlylab.com^
@@ -7256,6 +7257,7 @@ omni.soundestlink.com$image
 ||feedandpurr.com^
 ||feedten.com^
 ||feignedfaucet.com^
+||femalecook.com^
 ||fencesync.com^
 ||fewjuice.com^
 ||fewkittens.com^
