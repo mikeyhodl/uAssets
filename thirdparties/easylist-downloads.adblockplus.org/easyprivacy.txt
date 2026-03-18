@@ -7210,6 +7210,7 @@ omni.soundestlink.com$image
 ||eventexistence.com^
 ||eventsmall.com^
 ||exampleshake.com^
+||excitingdates.com^
 ||excitingtub.com^
 ||executeknowledge.com^
 ||exhibitsneeze.com^
@@ -8285,6 +8286,7 @@ omni.soundestlink.com$image
 ||sinceresubstance.com^
 ||singroot.com^
 ||sinkportal.com^
+||sitemapwizard.com^
 ||sixauthority.com^
 ||sixpants.com^
 ||sixquickrun.com^
