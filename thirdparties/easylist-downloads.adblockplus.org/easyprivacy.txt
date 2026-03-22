@@ -7543,6 +7543,7 @@ omni.soundestlink.com$image
 ||inquisitiveice.com^
 ||inquisitiveinvention.com^
 ||insectmacros.com^
+||insidepsych.net^
 ||inspirebees.com^
 ||insulatech.com^
 ||intelligentscissors.com^
@@ -8277,6 +8278,7 @@ omni.soundestlink.com$image
 ||shylibrary.com^
 ||sicksmash.com^
 ||siderain.com^
+||sidetrades.com^
 ||sierrakermit.com^
 ||signalszone.com^
 ||signaturepod.com^
