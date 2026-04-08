@@ -7531,6 +7531,7 @@ omni.soundestlink.com$image
 ||hustlercoach.com^
 ||hybridburst.com^
 ||hydraconcept.com^
+||hypercarart.com^
 ||hyperlegend.com^
 ||hypnoticwound.com^
 ||hystericalcloth.com^
@@ -8779,6 +8780,7 @@ omni.soundestlink.com$image
 ||withsounds.com^
 ||wittypopcorn.com^
 ||wizardbuck.com^
+||wizardstrategy.com^
 ||wondermakings.com^
 ||wordchip.com^
 ||workhorsefunds.com^
