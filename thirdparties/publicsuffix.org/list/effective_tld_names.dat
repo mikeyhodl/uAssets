@@ -5,8 +5,8 @@
 // Please pull this list from, and only from https://publicsuffix.org/list/public_suffix_list.dat,
 // rather than any other VCS sites. Pulling from any other URL is not guaranteed to be supported.
 
-// VERSION: 2026-04-24_06-48-12_UTC
-// COMMIT: 2cb079be30c1decd89df39914aa4062895d71272
+// VERSION: 2026-04-30_05-52-37_UTC
+// COMMIT: 66c9bda3aa96409830cb6fc4396b39eadb889274
 
 // Instructions on pulling and using this list can be found at https://publicsuffix.org/list/.
 
@@ -15661,6 +15661,12 @@ pp.ua
 // Shanghai Accounting Society : https://www.sasf.org.cn
 // Submitted by Information Administration <info@sasf.org.cn>
 as.sh.cn
+
+// Shanghai Oray Information Technology Co., Ltd.: https://www.oray.com/
+// Submitted by: Shanghai Oray Information Technology Co., Ltd. <registrar@oray.com>
+vicp.fun
+yicp.fun
+zicp.fun
 
 // Sheezy.Art : https://sheezy.art
 // Submitted by Nyoom <admin@sheezy.art>
