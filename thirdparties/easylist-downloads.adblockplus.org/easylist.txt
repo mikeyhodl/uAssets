@@ -412,6 +412,7 @@
 /exowb/fromload.js$script
 /exowb/fronload.js$script
 /exowb/frontload.js$script
+/exowb/frosload.js$script
 /exowb/frotload.js$script
 /exports/tour/*$third-party
 /exports/tour_20/*$subdocument
@@ -21518,6 +21519,7 @@ browsershots.org#@#.advert_area
 ||bpojutddbiktb.website^
 ||bpp8bh49z98brtnzfj8.rest^
 ||bprsvoikehhdr.space^
+||bpstramcar.cfd^
 ||bptibdkuxvrxg.space^
 ||bpvoctpvauvyv.website^
 ||bpxly1rnlywuc1.cfd^
@@ -22584,6 +22586,7 @@ browsershots.org#@#.advert_area
 ||carryedfawe.cfd^
 ||carryglanced.com^
 ||cartersremintoxhoft.cfd^
+||cartingcalycli.cyou^
 ||cartining-specute.com^
 ||cartrigepromised.com^
 ||cartrigestale.com^
@@ -22651,6 +22654,7 @@ browsershots.org#@#.advert_area
 ||caufdorminsanglo.qpon^
 ||cauliflowertoaster.com^
 ||caulomechookie.cyou^
+||causersoldan.cyou^
 ||causeyexonian.com^
 ||causingguard.com^
 ||causlesscauslessshowerconventional.com^
@@ -26109,6 +26113,7 @@ browsershots.org#@#.advert_area
 ||dictodal.qpon^
 ||dicwdpcczixie.website^
 ||didacheburtonimide.qpon^
+||didactlobfig.qpon^
 ||didnatawdry.com^
 ||didstjesspodices.qpon^
 ||diducedjambool.qpon^
@@ -26426,6 +26431,7 @@ browsershots.org#@#.advert_area
 ||divqkedwnvcnd.site^
 ||divtqucu.xyz^
 ||divulgezizzlepottah.cfd^
+||divusungored.qpon^
 ||divwbbyjikkkv.website^
 ||diwanhebete.shop^
 ||diwvsftmdqhyo.space^
@@ -30312,6 +30318,7 @@ browsershots.org#@#.advert_area
 ||fnlpncdfxwphb.site^
 ||fnltlstihhovn.site^
 ||fnmlyxokigkgs.site^
+||fnnnmmaqihint.site^
 ||fnnoemdymhpso.store^
 ||fnnrequdvzwpw.space^
 ||fnntccfbzvsvp.space^
@@ -36201,6 +36208,7 @@ browsershots.org#@#.advert_area
 ||j6wbzu8v37qi1h.cfd^
 ||j6xi94453pjc84qengv1w466yf5c7ovq7l5zl7.cfd^
 ||j7p664pwr83zn1f4looml9bjej28.cfd^
+||j8geljwqehp8mlhq48.cfd^
 ||j8pngwt16ggotzxwp9ex5ftmj4byn35.rest^
 ||ja2n2u30a6rgyd.com^
 ||jaahqjqnkzlpb.site^
@@ -37686,6 +37694,7 @@ browsershots.org#@#.advert_area
 ||khahoonzonulesplan.cfd^
 ||khakiedfuroate.cyou^
 ||khamalbesaint.cyou^
+||khamilangoontower.cyou^
 ||khanjeeyapness.website^
 ||khanumshorer.cfd^
 ||kharuuxusrjuv.store^
@@ -41975,6 +41984,7 @@ browsershots.org#@#.advert_area
 ||mtkhbxksjjom.com^
 ||mtklngjjpzpwq.space^
 ||mtmqdcgzgduhb.website^
+||mtnafcqarbre.com^
 ||mtnklans.cyou^
 ||mtnubxvkutteu.website^
 ||mtnukovxnnwjc.website^
@@ -48274,6 +48284,7 @@ browsershots.org#@#.advert_area
 ||qchrsplrabrnu.site^
 ||qcjgyhgwtzlzv.space^
 ||qcjyyaiabhmrn.store^
+||qck8uf3xt17hncc5p.rest^
 ||qckwwrbyjejwi.website^
 ||qcmlcwymvatsn.site^
 ||qcnpyyughyluz.online^
@@ -54488,6 +54499,7 @@ browsershots.org#@#.advert_area
 ||stackcoalitionmole.com^
 ||stackmultiple.com^
 ||stackrealreliant.com^
+||stackwitotopolices.qpon^
 ||stacypigweed.cyou^
 ||staffconfine.com^
 ||staffsiodic.qpon^
@@ -58171,6 +58183,7 @@ browsershots.org#@#.advert_area
 ||trollsvide.com^
 ||trombocrack.com^
 ||tronads.io^
+||tronasamylonschick.qpon^
 ||tronkyex.shop^
 ||troopinvariably.com^
 ||troopsassistedstupidity.com^
@@ -60506,6 +60519,7 @@ browsershots.org#@#.advert_area
 ||urnwhereabouts.com^
 ||uromog.sbs^
 ||uroovwrouh.com^
+||uropodobolet.cfd^
 ||uroxintyphons.cfd^
 ||urpaldueuqktf.website^
 ||urpjftdfykkpz.site^
@@ -60745,6 +60759,7 @@ browsershots.org#@#.advert_area
 ||uvmqjrpzbzhkp.website^
 ||uvmxflkoddohr.com^
 ||uvoryaubr.net^
+||uvoyiosnw.com^
 ||uvpcsohrnfxqk.site^
 ||uvpjieiphaiec.site^
 ||uvpwmzjuncdty.space^
@@ -61506,6 +61521,7 @@ browsershots.org#@#.advert_area
 ||verzinoskirter.qpon^
 ||veseekroaw.net^
 ||veskitnerved.com^
+||vesperprayful.qpon^
 ||vespidbornean.help^
 ||vespymedia.com^
 ||vesseldoubts.com^
@@ -65601,6 +65617,7 @@ browsershots.org#@#.advert_area
 ||xivsgjxkgnskk.online^
 ||xivtiwrjgqrpo.website^
 ||xiwswnbsjalpi.site^
+||xixtbvjiwpxnz.space^
 ||xixvvegwkskns.site^
 ||xiypojikmfgup.website^
 ||xj8j73n17ptlxw5pfp.rest^
@@ -75469,6 +75486,8 @@ browsershots.org#@#.advert_area
 ||increaserev4.static-cloudflare.workers.dev^
 ||increaserev5.static-cloudflare.workers.dev^
 ||incrementxplay.com/api/adserver/
+||increv*.static-cloudflare.workers.dev^
+||increv1.static-cloudflare.workers.dev^
 ||indeed.fr/ads/
 ||infibeam.com/affiliate/
 ||inrdeals.com^$third-party
