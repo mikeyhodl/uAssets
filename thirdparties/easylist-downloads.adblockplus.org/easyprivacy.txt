@@ -3833,6 +3833,7 @@ omni.soundestlink.com$image
 ||screen13.com^$image
 ||script.ac^
 ||seadform.net^
+||seaskypro.com^
 ||selphiu.com^
 ||seoab.io^
 ||sf-insights.io^
