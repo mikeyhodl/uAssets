@@ -7951,6 +7951,7 @@ omni.soundestlink.com$image
 ||pigmentpaper.com^
 ||pinchsquirrel.com^
 ||pincourse.com^
+||pingsurvey.com^
 ||piquantgrove.com^
 ||piquantmeadow.com^
 ||piquantpigs.com^
