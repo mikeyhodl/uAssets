@@ -7627,6 +7627,7 @@ omni.soundestlink.com$image
 ||kernellife.com^
 ||kidpowers.com^
 ||kindlereunion.com^
+||kingsealed.com^
 ||kitetuning.com^
 ||kittentacos.com^
 ||kittycatking.com^
@@ -8147,6 +8148,7 @@ omni.soundestlink.com$image
 ||roaddynamics.com^
 ||roamhousing.com^
 ||robotgarages.com^
+||robotsrefinery.com^
 ||rockagainst.com^
 ||rockstarwriter.com^
 ||rollconnection.com^
@@ -8414,6 +8416,7 @@ omni.soundestlink.com$image
 ||stakingsmile.com^
 ||staleshow.com^
 ||stalesummer.com^
+||starfurniture.net^
 ||starkscale.com^
 ||starrynets.com^
 ||starsmarter.com^
