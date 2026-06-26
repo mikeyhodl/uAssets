@@ -957,6 +957,7 @@
 /fbevents.min.js
 /fbpix-events-
 /fbpixel.js
+/fcp/v1/i
 /fdmg-tag-manager/tags.js
 /fe_logger?
 /feature/metrics$xmlhttprequest
@@ -1164,6 +1165,7 @@
 /GTag/general_tracker.js
 /gtag/js?
 /gtagv4.js
+/gtgcore/?id=
 /gtm-data-layer-$script
 /gtm-listeners.js
 /gtm-suite.js
@@ -11230,6 +11232,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hearstnp.com/log?
 ||heartbeat-pearl.vercel.app^
 ||heg-cp.com/upm/$third-party
+||heimdall.hearstapps.com^
 ||helix.bitformations.ca^
 ||hello.myfonts.net/count/
 ||hello.staticstuff.net^
@@ -11420,6 +11423,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||l-host.net/etn/omnilog?
 ||l.euronews.com/sdk.js
 ||l.fairblocker.com^$third-party
+||l.ffx.io^
 ||l.ooyala.com^
 ||l.player.ooyala.com^
 ||l.sharethis.com^
@@ -16120,6 +16124,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sexu.com/api/ttrack
 ||sexybabepics.net/re/?ping
 ||sf-syn.com/conversion_outbound_tracker$subdocument,domain=sourceforge.net
+||share.9cdn.net/share/short_cache/js/tracking/$domain=nine.com.au
 ||sharechat.com/event-tracking-service/
 ||sharesies.com/v1/identify
 ||sharesies.com/v1/track
