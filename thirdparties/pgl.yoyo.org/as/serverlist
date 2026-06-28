@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 09 Jun 2026 14:53:58 GMT
-# entries:        3504
+# last updated:   Sat, 27 Jun 2026 08:05:01 GMT
+# entries:        3507
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
@@ -280,6 +280,7 @@
 127.0.0.1 admarvel.com
 127.0.0.1 admaster.com.cn
 127.0.0.1 admatchly.com
+127.0.0.1 adme2.click
 127.0.0.1 admedia.com
 127.0.0.1 admeld.com
 127.0.0.1 admeridianads.com
@@ -520,7 +521,6 @@
 127.0.0.1 ads.pinterest.com
 127.0.0.1 ads.planet.nl
 127.0.0.1 ads.pni.com
-127.0.0.1 ads.pof.com
 127.0.0.1 ads.printscr.com
 127.0.0.1 ads.prisacom.com
 127.0.0.1 ads.prod.webservices.mozgcp.net
@@ -975,7 +975,6 @@
 127.0.0.1 bagsurprise.com
 127.0.0.1 banik.redigy.cz
 127.0.0.1 banner.ambercoastcasino.com
-127.0.0.1 banner.buempliz-online.ch
 127.0.0.1 banner.cotedazurpalace.com
 127.0.0.1 banner.easyspace.com
 127.0.0.1 banner.elisa.net
@@ -1002,7 +1001,6 @@
 127.0.0.1 banners.adultfriendfinder.com
 127.0.0.1 banners.amigos.com
 127.0.0.1 banners.asiafriendfinder.com
-127.0.0.1 banners.babylon-x.com
 127.0.0.1 banners.bol.com.br
 127.0.0.1 banners.cams.com
 127.0.0.1 banners.czi.cz
@@ -1191,6 +1189,7 @@
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.scarabresearch.com
 127.0.0.1 cdn.segment.com
+127.0.0.1 cdn.smalk.ai
 127.0.0.1 cdnondemand.org
 127.0.0.1 cedato.com
 127.0.0.1 celtra.com
@@ -1287,7 +1286,6 @@
 127.0.0.1 clicks.njuskalo.hr
 127.0.0.1 clickserve.cc-dt.com
 127.0.0.1 clicksinfo.thefork.co.uk
-127.0.0.1 clicktag.de
 127.0.0.1 clickthruserver.com
 127.0.0.1 clickthrutraffic.com
 127.0.0.1 clicktrack.pubmatic.com
@@ -1322,6 +1320,7 @@
 127.0.0.1 codeadnetwork.com
 127.0.0.1 cognitiv.ai
 127.0.0.1 cointraffic.io
+127.0.0.1 coldbalance.com
 127.0.0.1 collector-dev.cdp-dev.cnn.com
 127.0.0.1 collector.cdp.cnn.com
 127.0.0.1 colonize.com
@@ -1364,6 +1363,7 @@
 127.0.0.1 copycarpenter.com
 127.0.0.1 copyrightaccesscontrols.com
 127.0.0.1 coremetrics.com
+127.0.0.1 correctedcode.com
 127.0.0.1 cosmosjackson.com
 127.0.0.1 count.rin.ru
 127.0.0.1 count.west263.com
@@ -1807,7 +1807,6 @@
 127.0.0.1 hbb.afl.rakuten.co.jp
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 heap.com
-127.0.0.1 heimi-lwx.com
 127.0.0.1 hellobar.com
 127.0.0.1 helpcollar.com
 127.0.0.1 hentaicounter.com
@@ -1942,7 +1941,6 @@
 127.0.0.1 interreklame.de
 127.0.0.1 ioam.de
 127.0.0.1 ip.ro
-127.0.0.1 ip193.cn
 127.0.0.1 iperceptions.com
 127.0.0.1 ipredictive.com
 127.0.0.1 ipstack.com
@@ -1951,6 +1949,7 @@
 127.0.0.1 is-tracking-pixel-api-prod.appspot.com
 127.0.0.1 islandwebhelp.com
 127.0.0.1 itop.cz
+127.0.0.1 itrackly.com
 127.0.0.1 ivwbox.de
 127.0.0.1 ivykiosk.com
 127.0.0.1 iyfbodn.com
@@ -2440,6 +2439,7 @@
 127.0.0.1 otto-images.developershed.com
 127.0.0.1 ourdreamstaticpages.pages.dev
 127.0.0.1 outbrain.com
+127.0.0.1 outerwords.com
 127.0.0.1 overconfidentfood.com
 127.0.0.1 overkick.com
 127.0.0.1 overture.com
@@ -2706,6 +2706,7 @@
 127.0.0.1 reklamdsp.com
 127.0.0.1 relmaxtop.com
 127.0.0.1 rememberdiscussion.com
+127.0.0.1 remox.com
 127.0.0.1 report-1.appmetrica.webvisor.com
 127.0.0.1 report-2.appmetrica.webvisor.com
 127.0.0.1 report-partners.appmetrica.yandex.net
@@ -3216,6 +3217,7 @@
 127.0.0.1 tracker.icerocket.com
 127.0.0.1 tracker.mmdlv.it
 127.0.0.1 tracker.samplicio.us
+127.0.0.1 tracking.cybertips.uk
 127.0.0.1 tracking.epicgames.com
 127.0.0.1 tracking.hyros.com
 127.0.0.1 tracking.ibxlink.com
@@ -3285,6 +3287,7 @@
 127.0.0.1 truehits2.gits.net.th
 127.0.0.1 trust.titanhq.com
 127.0.0.1 trustx.org
+127.0.0.1 tsa-f.webex.com
 127.0.0.1 tsa.webex.com
 127.0.0.1 tsyndicate.com
 127.0.0.1 tsyndicate.net
