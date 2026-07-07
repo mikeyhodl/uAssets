@@ -7164,6 +7164,7 @@ omni.soundestlink.com$image
 ||deployinput.com^
 ||derbypops.com^
 ||desertgates.com^
+||designdew.com^
 ||designsgrid.com^
 ||desirebucket.com^
 ||desiredirt.com^
