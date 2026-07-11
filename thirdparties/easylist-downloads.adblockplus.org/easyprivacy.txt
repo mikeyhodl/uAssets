@@ -6936,6 +6936,7 @@ omni.soundestlink.com$image
 ||cannonchange.com^
 ||canvasandsocks.com^
 ||canyonpizza.net^
+||capitalopera.com^
 ||capriciouscorn.com^
 ||captainstick.com^
 ||captivatingcanyon.com^
@@ -7912,7 +7913,9 @@ omni.soundestlink.com$image
 ||omgthink.com^
 ||onecrow.net^
 ||onedropocean.com^
+||onekindmarket.com^
 ||onespecify.com^
+||onioncomic.com^
 ||onlinestarten.net^
 ||onlywoofs.com^
 ||opalquill.com^
@@ -16767,6 +16770,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||x.com/1.1/graphql/user_flow.json
 ||x.com/1.1/jot
 ||x.com/9/measurement/
+||x.com/i/api/1.1/flow/viewer.json
 ||x.com/i/api/1.1/graphql/app_context.json
 ||x.com/i/api/1.1/graphql/error_log.json
 ||x.com/i/api/1.1/graphql/user_flow.json
