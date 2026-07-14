@@ -7552,6 +7552,7 @@ omni.soundestlink.com$image
 ||homebizplaza.com^
 ||homelycrown.com^
 ||homelyheater.com^
+||homerunfood.com^
 ||homeslick.com^
 ||honestharbor.com^
 ||honeybulb.com^
@@ -8244,6 +8245,7 @@ omni.soundestlink.com$image
 ||scentedkindly.com^
 ||scholarloop.com^
 ||sciencedart.com^
+||sciencevault.net^
 ||scientificshirt.com^
 ||scintillatingscissors.com^
 ||scintillatingsilver.com^
@@ -8260,6 +8262,7 @@ omni.soundestlink.com$image
 ||scrubswim.com^
 ||sealtravels.com^
 ||seamlesssalon.com^
+||seaotterplay.com^
 ||seatsmoke.com^
 ||secondhandfall.com^
 ||secretivesheep.com^
@@ -8273,6 +8276,7 @@ omni.soundestlink.com$image
 ||selectivesummer.com^
 ||selfishsea.com^
 ||selfishsnake.com^
+||sendinblast.com^
 ||sendingspire.com^
 ||seniordynamic.com^
 ||sentinelp.com^
