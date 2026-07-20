@@ -17332,7 +17332,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ! https://github.com/uBlockOrigin/uAssets/issues/31330
 ||metrics.streaks.jp^$redirect=noop.txt,xmlhttprequest
 ! https://github.com/uBlockOrigin/uAssets/issues/33072
-!#if env_firefox
+!#if ext_ubol
 x.com##+js(no-xhr-if, /i/api/1.1/flow/viewer.json)
 !#endif
 !-----------------Individual cname tracking systems-----------------!
