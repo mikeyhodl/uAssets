@@ -899,7 +899,6 @@
 /event?s=$ping
 /event_log/*
 /event_logger
-/event_logging/*
 /eventLog.ajax
 /EventLoggerV3.min.js
 /eventLogServlet?
@@ -7216,6 +7215,7 @@ omni.soundestlink.com$image
 ||doubtdrawer.com^
 ||dq95d35.com^
 ||dragonbats.com^
+||dragontamer.net^
 ||drainpaste.com^
 ||dramaticdirection.com^
 ||dreamsdome.com^
@@ -54844,6 +54844,7 @@ x.com##+js(no-xhr-if, /i/api/1.1/flow/viewer.json)
 ||shopch.jp/com/js/analytics.js
 ||shueisha.online/op/analytics.js
 ||so-zou.jp/js/ga.js
+||socialxup.com/api/sale-accounts
 ||softonic.jp/web-stats
 ||ssai.api.streaks.jp/*/ad_info?
 ||stats.nhk.or.jp^
