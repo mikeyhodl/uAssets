@@ -383,6 +383,7 @@
 /api/v1/impressions|
 /api/v1/metrics
 /api/v1/reportData/*
+/api/v1/reporting/flows
 /api/v1/stat?
 /api/v1/streamtelemetry
 /api/v2/collector
@@ -8399,6 +8400,7 @@ omni.soundestlink.com$image
 ||sneezecovers.com^
 ||snoresmile.com^
 ||snowmentor.com^
+||socialsend.net^
 ||sockpacks.com^
 ||soggysponge.com^
 ||soilcontent.com^
