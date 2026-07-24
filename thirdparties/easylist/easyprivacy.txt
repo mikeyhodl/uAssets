@@ -8119,6 +8119,7 @@ omni.soundestlink.com$image
 ||quixoticnebula.com^
 ||quizzicalpartner.com^
 ||quizzicalzephyr.com^
+||rabbitboots.com^
 ||rabbitbreath.com^
 ||rabbitrifle.com^
 ||rackforstorage.com^
