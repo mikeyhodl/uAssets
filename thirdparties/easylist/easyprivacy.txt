@@ -8020,6 +8020,7 @@ omni.soundestlink.com$image
 ||planebasin.com^
 ||plantcourse.com^
 ||playerhappy.com^
+||playerscache.com^
 ||playfulriver.com^
 ||pleasantpump.com^
 ||plotparent.com^
@@ -8081,6 +8082,7 @@ omni.soundestlink.com$image
 ||propsynergy.com^
 ||protectpool.com^
 ||protestcopy.com^
+||provingmagic.com^
 ||psychedelicarithmetic.com^
 ||pubfs.com^
 ||pubimgs.com^
