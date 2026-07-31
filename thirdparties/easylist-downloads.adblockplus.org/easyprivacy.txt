@@ -6764,6 +6764,7 @@ omni.soundestlink.com$image
 ||amusedbucket.com^
 ||analyzecorona.com^
 ||ancientact.com^
+||andfauna.net^
 ||animalcoder.com^
 ||annoyedairport.com^
 ||annoyingacoustics.com^
@@ -6817,6 +6818,7 @@ omni.soundestlink.com$image
 ||barcodetool.com^
 ||barkfactor.com^
 ||barqueue.com^
+||barrelcider.com^
 ||baseboosters.com^
 ||basilfish.com^
 ||basketballbelieve.com^
@@ -7211,6 +7213,7 @@ omni.soundestlink.com$image
 ||dinnerquartz.com^
 ||direfuldesk.com^
 ||disagreeabledrop.com^
+||discjockeys.net^
 ||discopond.com^
 ||discreetfield.com^
 ||discreetquarter.com^
