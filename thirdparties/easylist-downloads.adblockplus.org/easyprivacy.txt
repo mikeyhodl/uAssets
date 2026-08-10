@@ -7614,6 +7614,7 @@ omni.soundestlink.com$image
 ||hospitablehall.com^
 ||hospitablehat.com^
 ||howdoesthislook.com^
+||humbleroots.net^
 ||humdrumhobbies.com^
 ||humdrumtouch.com^
 ||humourspot.com^
@@ -16228,6 +16229,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||react-admin-telemetry.marmelab.com^
 ||read.amazon.*/uploadMetrics/
 ||realitytvworld.com/images/pixel.gif
+||realself.com/v1/browser-logging-service/browser/log
+||realself.com/v1/page-interactions-events
 ||rec.banggood.com^
 ||recommend.9gag.com/interact/event/
 ||reddit.com/static/pixel.png$image
