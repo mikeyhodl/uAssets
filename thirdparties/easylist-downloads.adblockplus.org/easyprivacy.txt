@@ -8160,6 +8160,7 @@ omni.soundestlink.com$image
 ||questionate.com^
 ||quicklyedit.com^
 ||quicksandear.com^
+||quicktattoo.com^
 ||quicktrick.net^
 ||quietknowledge.com^
 ||quillkick.com^
@@ -8806,6 +8807,7 @@ omni.soundestlink.com$image
 ||vanfireworks.com^
 ||vanishmemory.com^
 ||vastmillions.com^
+||vectorshirt.com^
 ||velvetquasar.com^
 ||vengefulgrass.com^
 ||venomousvessel.com^
@@ -8827,6 +8829,7 @@ omni.soundestlink.com$image
 ||victoryideas.com^
 ||viewresource.com^
 ||vilenexus.com^
+||violetdemise.com^
 ||viralfoodie.net^
 ||virtualvincent.com^
 ||vividcanopy.com^
