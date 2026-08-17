@@ -15190,6 +15190,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||biosolutions.tv/audience-proxy/
 ||bis.org/metrics/web.gif?
 ||bitchute.com/data/script.js
+||bitdefender.com/geoip
 ||bitwarden.com/plsbl/
 ||blitz-analytics-batch-server.blitz.gg^
 ||blockworks.co/_vercel/insights/
@@ -54264,6 +54265,9 @@ x.com##+js(no-xhr-if, /i/api/1.1/flow/viewer.json)
 ||bellesdemeures.com/Content/dist/js/libs/thor.js
 ||bmly.impots.gouv.fr^
 ||boingtv.fr/track_view
+||cdn.lesnumeriques.com/assets/*/js/eventsTracker-
+||cdn.lesnumeriques.com/assets/*/js/offer-tracking-
+||cdn.lesnumeriques.com/assets/*/js/tracking-
 ||cdtm.cdiscount.com^
 ||centerblog.net/a/in
 ||cesu.urssaf.fr/clm10
