@@ -7323,6 +7323,7 @@ omni.soundestlink.com$image
 ||drollwharf.com^
 ||drumfills.com^
 ||drydrum.com^
+||dryerwasher.com^
 ||dualping.com^
 ||dustydime.com^
 ||dustyhammer.com^
@@ -7468,6 +7469,7 @@ omni.soundestlink.com$image
 ||fieldconfig.com^
 ||figsprotein.com^
 ||figurehunter.net^
+||fileshareengine.com^
 ||fillthemap.com^
 ||filtercutter.com^
 ||finalizeforce.com^
