@@ -3473,6 +3473,7 @@ omni.soundestlink.com$image
 ||a8723.com^
 ||acsbapp.com^
 ||adcontroll.com^
+||addefend-platform.com^
 ||aditude.cloud^
 ||admaxium.com^
 ||admediasales.com^
@@ -10435,6 +10436,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics-api-s.cloudinary.com^
 ||analytics-api.gemcommerce.com^
 ||analytics-api.klickly.com^
+||analytics-assets.tes.com^
 ||analytics-cf.bigcrunch.com^
 ||analytics-cms.whitebeard.me^
 ||analytics-fe.digital-cloud-prem.medallia.com^
@@ -13915,6 +13917,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.rtl.de^
 ||tracking.s24.com^
 ||tracking.srv2.de^
+||tracking.vviinn.com^
 ||tracking.webtradecenter.com^
 ||traffic.askrella.de^
 ||trck.bdi-services.de^
@@ -17102,6 +17105,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||umami.wakarimasen.moe^
 ||unity3d.com/v1/events
 ||unl1zvy2zuyn.franchiseplus.nl^
+||unleash.zenchef.com/api/frontend/client/metrics
 ||unsplash.com/nmetrics
 ||untappd.com/profile/impression?
 ||up4stream.com/js/anti.js
@@ -55267,6 +55271,7 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 ||shipping.jp/raa/rd.js
 ||shopch.jp/com/js/analytics.js
 ||shueisha.online/op/analytics.js
+||sidecar.unext.jp/track/
 ||so-zou.jp/js/ga.js
 ||socialxup.com/api/sale-accounts
 ||softonic.jp/web-stats
