@@ -7326,6 +7326,7 @@ omni.soundestlink.com$image
 ||drainpaste.com^
 ||dramaticdirection.com^
 ||dreamsdome.com^
+||driedwheat.com^
 ||driftingchef.com^
 ||driftpizza.com^
 ||droidwiz.com^
@@ -7458,6 +7459,7 @@ omni.soundestlink.com$image
 ||fatcoil.com^
 ||faucetfoot.com^
 ||faultycanvas.com^
+||faxardent.net^
 ||faxcoupons.com^
 ||fearfulfish.com^
 ||fearfulmint.com^
@@ -15417,6 +15419,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||chat.groq.com/global_stats
 ||chatfuel.com/cf-analytics/
 ||chatgpt.com/backend-api/sentinel/ping
+||chatgpt.com/ces/v1/telemetry/
 ||chatroll.com/t.gif
 ||chewy.com/api/event/
 ||chickadvisor.com/js/detect.min.js
@@ -53898,6 +53901,7 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 ||sgtm.tennis-point.de^
 ||shoop.de/mgtrx/
 ||shop.rewe.de/api/xrd/web-vitals
+||smartbrokerplus.de/_ingenious-script.js
 ||sp.chip.de^
 ||sparkasse.de/frontend/setTrackingCookie.htm
 ||sportnews.bz/pcookie?
