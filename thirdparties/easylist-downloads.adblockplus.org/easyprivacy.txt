@@ -8457,6 +8457,7 @@ omni.soundestlink.com$image
 ||repeatsweater.com^
 ||repfineart.com^
 ||replaceroute.com^
+||replantable.com^
 ||republicfarm.net^
 ||rescueothers.com^
 ||rescuerhino.com^
@@ -8659,6 +8660,7 @@ omni.soundestlink.com$image
 ||silentjackal.com^
 ||silentsingle.com^
 ||siliconslow.com^
+||siliconuser.com^
 ||sillyscrew.com^
 ||simplenaming.com^
 ||simplesafari.com^
@@ -8697,6 +8699,7 @@ omni.soundestlink.com$image
 ||slinksuggestion.com^
 ||slopesoap.com^
 ||smallershops.com^
+||smartbuildnow.com^
 ||smashquartz.com^
 ||smashshoe.com^
 ||smashsurprise.com^
@@ -8856,6 +8859,7 @@ omni.soundestlink.com$image
 ||stomachscience.com^
 ||stonepole.com^
 ||stonetumble.com^
+||stopcast.net^
 ||stopstomach.com^
 ||stormyflower.com^
 ||straightnest.com^
@@ -13983,6 +13987,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||statistics.klicktel.de^
 ||statistik.motorpresse.de^$third-party
 ||statistik.simaja.de^
+||stats.betternet.de^
 ||stats.blogoscoop.net^
 ||stats.clickforknowledge.com^
 ||stats.digital-natives.de^
