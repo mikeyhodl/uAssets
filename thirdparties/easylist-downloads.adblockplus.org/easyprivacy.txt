@@ -8473,6 +8473,7 @@ omni.soundestlink.com$image
 ||reversetickets.com^
 ||reviewacousticguitar.com^
 ||revivalvoice.com^
+||rewardangels.com^
 ||rhetoricalactivity.com^
 ||rhetoricalloss.com^
 ||rhetoricalveil.com^
@@ -9033,6 +9034,7 @@ omni.soundestlink.com$image
 ||topcrazypress.com^
 ||topicalcartel.com^
 ||topicjungle.com^
+||toplaunch.net^
 ||topsecretapp.net^
 ||topthrowbacks.com^
 ||tortoisepage.com^
@@ -9042,6 +9044,7 @@ omni.soundestlink.com$image
 ||tracecontent.com^
 ||traderbyte.com^
 ||tradetooth.com^
+||trainingreality.com^
 ||tranquilcan.com^
 ||tranquilplume.com^
 ||tranquilveil.com^
@@ -9128,6 +9131,7 @@ omni.soundestlink.com$image
 ||velvetquasar.com^
 ||vengefulgrass.com^
 ||venomousvessel.com^
+||venturemen.com^
 ||venusgloria.com^
 ||verbacademy.com^
 ||verdantanswer.com^
