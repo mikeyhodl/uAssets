@@ -13142,6 +13142,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.btdmp.com^
 ||track.coherentpath.com^
 ||track.contently.com^
+||track.convertfox.com^
 ||track.cordial.io^
 ||track.digitalriver.com^
 ||track.emerse.com^
@@ -15119,6 +15120,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.livasoft.com.tr^
 ||tracker.adcluster.com.tr^
 ||traffic.wdc.center^
+||trafik.koopit.ist^
 ||wa.wawlabs.com^
 ||web.tv/analytics/
 ! Ukranian
