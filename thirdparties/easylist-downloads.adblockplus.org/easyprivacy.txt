@@ -6819,6 +6819,7 @@ omni.soundestlink.com$image
 ||aquaticowl.com^
 ||archswimming.com^
 ||arclet.net^
+||ariaclean.com^
 ||aromamirror.com^
 ||arrivegrowth.com^
 ||artbranch.net^
@@ -7119,6 +7120,7 @@ omni.soundestlink.com$image
 ||cinemabonus.com^
 ||cinemafair.com^
 ||circlelevel.com^
+||citizensactive.com^
 ||citydeal.net^
 ||clammychicken.com^
 ||clarifyverse.com^
@@ -16330,6 +16332,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lowes.com/gauge/
 ||lowes.com/pharos/api/webTelemetry?
 ||lucida.su/api/event
+||lycos.com/analytics.js
 ||lyft.com/api/track
 ||lyngsat.com/system/loadclick.js
 ||m.facebook.com/ajax/weblite_resources_timing_logging/
