@@ -7168,6 +7168,7 @@ omni.soundestlink.com$image
 ||colossalclouds.com^
 ||colossalcoat.com^
 ||colossalcry.com^
+||colwinners.com^
 ||combativedetail.com^
 ||combbit.com^
 ||combcattle.com^
@@ -7337,6 +7338,7 @@ omni.soundestlink.com$image
 ||detourgame.com^
 ||devilishdinner.com^
 ||dewdroplagoon.com^
+||dharmabrats.com^
 ||dicecandies.com^
 ||difficultfog.com^
 ||digestiondrawer.com^
