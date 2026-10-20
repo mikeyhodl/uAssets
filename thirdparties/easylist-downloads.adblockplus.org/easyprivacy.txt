@@ -7679,6 +7679,7 @@ omni.soundestlink.com$image
 ||gemlithium.com^
 ||gemorganic.com^
 ||generalprose.com^
+||genomicswire.com^
 ||getbanquet.com^
 ||getbendyyoga.com^
 ||getwagtail.com^
@@ -7824,6 +7825,7 @@ omni.soundestlink.com$image
 ||hoorayplay.com^
 ||hospitablehall.com^
 ||hospitablehat.com^
+||hostchutney.com^
 ||howdoesthislook.com^
 ||hubcapcafe.net^
 ||humbleroots.net^
@@ -8191,6 +8193,7 @@ omni.soundestlink.com$image
 ||newscompiler.com^
 ||newsuccesssecret.com^
 ||newsvehicles.com^
+||nextsmarty.com^
 ||nexttopchef.com^
 ||nicefollows.com^
 ||nicehuh.com^
@@ -8502,6 +8505,7 @@ omni.soundestlink.com$image
 ||receiptcent.com^
 ||receptivereaction.com^
 ||recessrain.com^
+||recipearena.com^
 ||recipepile.net^
 ||recipepin.com^
 ||reconditeprison.com^
@@ -8762,6 +8766,7 @@ omni.soundestlink.com$image
 ||skillfuldrop.com^
 ||skillfullyfrugal.com^
 ||skillpuppy.com^
+||skinnytea.net^
 ||skisofa.com^
 ||skullmagnets.com^
 ||skullteeth.com^
