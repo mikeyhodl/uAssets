@@ -8054,6 +8054,7 @@ omni.soundestlink.com$image
 ||maliciousmusic.com^
 ||manamoment.com^
 ||manateemotors.com^
+||manawell.net^
 ||manydiamonds.com^
 ||manyfishes.com^
 ||mapbasin.com^
@@ -9294,6 +9295,7 @@ omni.soundestlink.com$image
 ||webspa.net^
 ||webspires.net^
 ||weeklycurrents.com^
+||wellbeingforce.com^
 ||wellgroomedapparel.com^
 ||wellgroomedhydrant.com^
 ||westsideglobe.com^
@@ -9333,6 +9335,7 @@ omni.soundestlink.com$image
 ||wistfulwaste.com^
 ||withsharks.com^
 ||withsounds.com^
+||wittyfamous.com^
 ||wittypopcorn.com^
 ||wittyshack.com^
 ||wizardbuck.com^
