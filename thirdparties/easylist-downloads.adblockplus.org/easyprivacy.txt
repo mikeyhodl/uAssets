@@ -8343,6 +8343,7 @@ omni.soundestlink.com$image
 ||pigmentpaper.com^
 ||pinchsquirrel.com^
 ||pincourse.com^
+||pingprove.com^
 ||pingsurvey.com^
 ||pinsearcher.com^
 ||pipadvance.com^
