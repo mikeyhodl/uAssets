@@ -7739,6 +7739,7 @@ omni.soundestlink.com$image
 ||granlite.com^
 ||gravitygive.com^
 ||gravitykick.com^
+||gravitypics.com^
 ||graychalk.com^
 ||grayoranges.com^
 ||grayreceipt.com^
@@ -7790,6 +7791,7 @@ omni.soundestlink.com$image
 ||harmonywing.com^
 ||hayweb.net^
 ||hazmatworkshop.com^
+||headbandeau.com^
 ||headydegree.com^
 ||healflowers.com^
 ||healthyclad.com^
@@ -8470,6 +8472,7 @@ omni.soundestlink.com$image
 ||queenskart.com^
 ||questionate.com^
 ||quicklyedit.com^
+||quickpints.com^
 ||quicktattoo.com^
 ||quicktrick.net^
 ||quietknowledge.com^
@@ -12478,6 +12481,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||paramount.tech/lookup/
 ||parkwhiz.com/events/
 ||parsely.com/keys/$script,third-party
+||parsely.com/plogger/
 ||partner.awscconsumerinfo.autotrader.com/accdab/beacon/
 ||partners.etoro.com^$script
 ||patreon.com/api/tracking
