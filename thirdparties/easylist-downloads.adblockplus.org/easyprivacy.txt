@@ -7806,6 +7806,7 @@ omni.soundestlink.com$image
 ||helpcollar.com^
 ||helpflame.com^
 ||helpingbits.com^
+||hensonempire.com^
 ||heycomputers.com^
 ||heyhotshots.com^
 ||hfc195b.com^
@@ -54104,6 +54105,7 @@ search.rakuten.co.jp##+js(aeld, mouseup, sendClickEvent)
 ||data.manga-passion.de^
 ||data.openerotik.com^
 ||data.sportdeutschland.tv^
+||dbik.literatur-couch.de^
 ||dd.betano.com^
 ||dein-plan.de/t.gif
 ||deine-tierwelt.de/ajax/responsive/stats.php?
