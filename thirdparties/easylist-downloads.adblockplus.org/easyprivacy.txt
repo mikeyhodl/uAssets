@@ -3968,6 +3968,7 @@ omni.soundestlink.com$image
 ||turbolion.io^
 ||tvpixel.com^
 ||tw.cx^
+||ubbrobccheck20.cc^
 ||ugdturner.com^
 ||uidapi.com^
 ||uimarketpro.com^
@@ -7926,6 +7927,7 @@ omni.soundestlink.com$image
 ||joblessdrum.com^
 ||jobmist.com^
 ||joshpaintings.com^
+||joybegins.com^
 ||joyfulharbor.com^
 ||joyouspool.com^
 ||joyoussurprise.com^
@@ -11634,6 +11636,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||events.mapbox.com^
 ||events.matterport.com^
 ||events.medio.com^
+||events.mics-notrack.com^
 ||events.missena.io^
 ||events.ocdn.eu^
 ||events.paramount.tech^
