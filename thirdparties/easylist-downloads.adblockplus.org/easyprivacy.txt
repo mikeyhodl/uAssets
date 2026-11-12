@@ -8401,6 +8401,7 @@ omni.soundestlink.com$image
 ||owlthegoodies.com^
 ||owltin.com^
 ||oxygenfuse.com^
+||paidjourneys.com^
 ||pailcrime.com^
 ||pailpatch.com^
 ||painstakingpickle.com^
@@ -9034,6 +9035,7 @@ omni.soundestlink.com$image
 ||squishybears.com^
 ||squishykiosk.com^
 ||stableapp.net^
+||stableparty.com^
 ||stadiumzoo.net^
 ||stakedances.com^
 ||stakeschips.com^
