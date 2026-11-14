@@ -9182,6 +9182,7 @@ omni.soundestlink.com$image
 ||tastesnake.com^
 ||tawdryson.com^
 ||taxisubsea.com^
+||taxiwear.com^
 ||tealjewel.com^
 ||teamstatus.net^
 ||tearfulglass.com^
