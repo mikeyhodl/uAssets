@@ -8133,6 +8133,7 @@ omni.soundestlink.com$image
 ||locolava.com^
 ||locowater.com^
 ||logicalminds.net^
+||logomet.com^
 ||lonelyflavor.com^
 ||longingtrees.com^
 ||longloops.com^
@@ -8503,6 +8504,7 @@ omni.soundestlink.com$image
 ||piquantpigs.com^
 ||piquantprice.com^
 ||piquantvortex.com^
+||pitmanmusic.com^
 ||pixeledhub.com^
 ||pixelmoonstudio.com^
 ||pixeltrouble.com^
@@ -8672,6 +8674,7 @@ omni.soundestlink.com$image
 ||realitydocs.com^
 ||realizedoor.com^
 ||realizerecess.com^
+||rebatecircle.com^
 ||rebelclover.com^
 ||rebelhen.com^
 ||rebelswing.com^
@@ -8680,6 +8683,7 @@ omni.soundestlink.com$image
 ||recenc.com^
 ||receptivereaction.com^
 ||recessrain.com^
+||recessremote.com^
 ||recipearena.com^
 ||recipediner.com^
 ||recipepile.net^
@@ -8692,6 +8696,7 @@ omni.soundestlink.com$image
 ||redbricksoap.com^
 ||redexecs.com^
 ||redmillgroup.com^
+||reelboat.com^
 ||reelcombat.com^
 ||reflectpaint.com^
 ||refundradar.com^
@@ -8796,6 +8801,7 @@ omni.soundestlink.com$image
 ||samplesamba.com^
 ||samuraibots.com^
 ||sandboxbid.com^
+||sandshredder.com^
 ||sandstrophies.com^
 ||sandypocket.com^
 ||sandytaco.com^
