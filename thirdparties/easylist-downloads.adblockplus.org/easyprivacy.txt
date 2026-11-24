@@ -9509,6 +9509,7 @@ omni.soundestlink.com$image
 ||warnwing.com^
 ||warpedwaffle.com^
 ||washbanana.com^
+||watchbighead.com^
 ||waterloco.com^
 ||waterywave.com^
 ||waveinverter.com^
