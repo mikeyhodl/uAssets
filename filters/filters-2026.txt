@@ -2549,3 +2549,6 @@ maimuna.to##+js(spoof-css, div[id^="maimunka-ad-"], display, block)
 5play.org##.nx-ad
 5play.app##+js(nowoif, _blank)
 5play.app##+js(rpnt, script, count < 0, count > 0)
+
+! https://github.com/uBlockOrigin/uAssets/issues/35573
+ansembed.net##+js(nowoif)
